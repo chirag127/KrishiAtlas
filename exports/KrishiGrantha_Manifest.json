@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T21:31:15.061771+00:00",
+  "generated_at": "2026-10-18T21:38:50.781478+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 216,
-  "total_words": 263827,
+  "included_articles_count": 228,
+  "total_words": 276914,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "1263550554fdd0d4f05b06e0aa29aeb3da58b18a377ae76c2983bc6046e8a21f",
+  "master_md_sha256": "a56638fb495ffc2095dfef4369d3d14f9cecb225ff125a8368b8414acd85c26c",
   "articles": [
     {
       "id": "KA-001",
@@ -2256,132 +2256,132 @@
       "title": "Mango Orchard Management, Alternate Bearing and Quality",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-205-mango-orchard-management-alternate-bearing-and-quality.md",
+      "sha256": "c7c3267e31ddfc153792c3e4812ac94c382f5ed90fb24752ebb4196d02e8c230",
+      "word_count": 1034,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-206",
       "title": "Papaya Establishment, Disease Exposure and Crop Duration",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-206-papaya-establishment-disease-exposure-and-crop-duration.md",
+      "sha256": "2f19a93049424a81ea2e7eeff6147ec3a61f56029ed01912d14a32cb64be4010",
+      "word_count": 1132,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-207",
       "title": "Pineapple Production, Planting Material and Market Channels",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-207-pineapple-production-planting-material-and-market-channels.md",
+      "sha256": "505088dc1306b76c6f0c3088b8956e4bee3f25e269292fc74631d3f42e189908",
+      "word_count": 1123,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-208",
       "title": "Jackfruit, Breadfruit and Regionally Important Tropical Fruits",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-208-jackfruit-breadfruit-and-regionally-important-tropical-fruits.md",
+      "sha256": "bc3cfed28b2a8ca942294d50da0b6932875521ff701c44c1dfe63ebcd6bef743",
+      "word_count": 1018,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-209",
       "title": "Coconut Plantation Economics and Intercropping Options",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-209-coconut-plantation-economics-and-intercropping-options.md",
+      "sha256": "a1581d666661262415f1564873e9ada3dcac806d01fa549d3602400a5dd2428a",
+      "word_count": 1143,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-210",
       "title": "Arecanut, Cashew and Humid-Tropical Tree Crops",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-210-arecanut-cashew-and-humid-tropical-tree-crops.md",
+      "sha256": "f5fcab31972c034440eb04b626b439f1196ba00a8ced5a4dfd024eb07acb0a2c",
+      "word_count": 1196,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-211",
       "title": "Date Palm and Arid-Zone Fruit Production",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-211-date-palm-and-arid-zone-fruit-production.md",
+      "sha256": "157d35d27fe60da8468a9fdcbf7814a1729de66cb40f0b5460f7e6ab477fd750",
+      "word_count": 1096,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-212",
       "title": "Dragon Fruit: Market Evidence, Trellis Investment and Demand Risk",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-212-dragon-fruit-market-evidence-trellis-investment-and-demand-risk.md",
+      "sha256": "cb1f6276df810ccd09cad71c70ecf14599cc28f55abb46f44a5d792df978615c",
+      "word_count": 1081,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-213",
       "title": "Avocado and Emerging Fruit Crops: Suitability Before Hype",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-213-avocado-and-emerging-fruit-crops-suitability-before-hype.md",
+      "sha256": "593402334e46afc778992a4b70ed41fc2d1be49275238a8fb6c9d241947bf37f",
+      "word_count": 1034,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-214",
       "title": "Watermelon, Muskmelon and Short-Cycle Cucurbit Production",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-214-watermelon-muskmelon-and-short-cycle-cucurbit-production.md",
+      "sha256": "98a41dd509dabc1083b75f23e40ad7774b53c6e214d2234321c721c5fcca37bd",
+      "word_count": 1102,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-215",
       "title": "Fruit Nursery Quality, Graft Authenticity and Orchard Replacement",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-215-fruit-nursery-quality-graft-authenticity-and-orchard-replacement.md",
+      "sha256": "ffd1436f90b878211f8ff548639d7f0f8d334827a1e8d549c8cb590c06e23cad",
+      "word_count": 1074,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-216",
       "title": "How Perishability and Price Gluts Change Fruit Profitability",
       "part": 18,
       "part_title": "Fruits: Tropical, Arid and Specialty Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-216-how-perishability-and-price-gluts-change-fruit-profitability.md",
+      "sha256": "af5427b2163c574dc30037f7eff2fde7cb2b14247746190402058c7ec59c2577",
+      "word_count": 1054,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-217",

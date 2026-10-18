@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T03:00:00+05:30",
+  "last_updated": "2026-10-19T03:10:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 216,
-  "completed_parts": 18,
-  "master_manuscript_words": 263827,
+  "completed_articles": 228,
+  "completed_parts": 19,
+  "master_manuscript_words": 276914,
   "milestones": [
     {
       "id": "M01",
@@ -159,6 +159,12 @@
           "status": "completed"
         },
         {
+          "part": 18,
+          "title": "Fruits: Tropical, Arid and Specialty Systems",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -166,10 +172,10 @@
         }
       ],
       "active_part": {
-        "part": 18,
-        "title": "Fruits: Tropical, Arid and Specialty Systems",
+        "part": 19,
+        "title": "Vegetables and Market Gardening",
         "target_articles": 12,
-        "next_article": "KA-205"
+        "next_article": "KA-217"
       }
     }
   ]

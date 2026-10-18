@@ -302,18 +302,18 @@ This is the authoritative inventory of all required articles across all 90 parts
 
 | ID | Title | Slug | Target Scope | Initial Status |
 |---|---|---|---|---|
-| `KA-205` | **Mango Orchard Management, Alternate Bearing and Quality** | `mango-orchard-management-alternate-bearing-and-quality` | Pan-India / Global / Comparative | `draft` |
-| `KA-206` | **Papaya Establishment, Disease Exposure and Crop Duration** | `papaya-establishment-disease-exposure-and-crop-duration` | Pan-India / Global / Comparative | `draft` |
-| `KA-207` | **Pineapple Production, Planting Material and Market Channels** | `pineapple-production-planting-material-and-market-channels` | Pan-India / Global / Comparative | `draft` |
-| `KA-208` | **Jackfruit, Breadfruit and Regionally Important Tropical Fruits** | `jackfruit-breadfruit-and-regionally-important-tropical-fruits` | Pan-India / Global / Comparative | `draft` |
-| `KA-209` | **Coconut Plantation Economics and Intercropping Options** | `coconut-plantation-economics-and-intercropping-options` | Pan-India / Global / Comparative | `draft` |
-| `KA-210` | **Arecanut, Cashew and Humid-Tropical Tree Crops** | `arecanut-cashew-and-humid-tropical-tree-crops` | Pan-India / Global / Comparative | `draft` |
-| `KA-211` | **Date Palm and Arid-Zone Fruit Production** | `date-palm-and-arid-zone-fruit-production` | Pan-India / Global / Comparative | `draft` |
-| `KA-212` | **Dragon Fruit: Market Evidence, Trellis Investment and Demand Risk** | `dragon-fruit-market-evidence-trellis-investment-and-demand-risk` | Pan-India / Global / Comparative | `draft` |
-| `KA-213` | **Avocado and Emerging Fruit Crops: Suitability Before Hype** | `avocado-and-emerging-fruit-crops-suitability-before-hype` | Pan-India / Global / Comparative | `draft` |
-| `KA-214` | **Watermelon, Muskmelon and Short-Cycle Cucurbit Production** | `watermelon-muskmelon-and-short-cycle-cucurbit-production` | Pan-India / Global / Comparative | `draft` |
-| `KA-215` | **Fruit Nursery Quality, Graft Authenticity and Orchard Replacement** | `fruit-nursery-quality-graft-authenticity-and-orchard-replacement` | Pan-India / Global / Comparative | `draft` |
-| `KA-216` | **How Perishability and Price Gluts Change Fruit Profitability** | `how-perishability-and-price-gluts-change-fruit-profitability` | Pan-India / Global / Comparative | `draft` |
+| `KA-205` | **Mango Orchard Management, Alternate Bearing and Quality** | `mango-orchard-management-alternate-bearing-and-quality` | Pan-India / Global / Comparative | `published` |
+| `KA-206` | **Papaya Establishment, Disease Exposure and Crop Duration** | `papaya-establishment-disease-exposure-and-crop-duration` | Pan-India / Global / Comparative | `published` |
+| `KA-207` | **Pineapple Production, Planting Material and Market Channels** | `pineapple-production-planting-material-and-market-channels` | Pan-India / Global / Comparative | `published` |
+| `KA-208` | **Jackfruit, Breadfruit and Regionally Important Tropical Fruits** | `jackfruit-breadfruit-and-regionally-important-tropical-fruits` | Pan-India / Global / Comparative | `published` |
+| `KA-209` | **Coconut Plantation Economics and Intercropping Options** | `coconut-plantation-economics-and-intercropping-options` | Pan-India / Global / Comparative | `published` |
+| `KA-210` | **Arecanut, Cashew and Humid-Tropical Tree Crops** | `arecanut-cashew-and-humid-tropical-tree-crops` | Pan-India / Global / Comparative | `published` |
+| `KA-211` | **Date Palm and Arid-Zone Fruit Production** | `date-palm-and-arid-zone-fruit-production` | Pan-India / Global / Comparative | `published` |
+| `KA-212` | **Dragon Fruit: Market Evidence, Trellis Investment and Demand Risk** | `dragon-fruit-market-evidence-trellis-investment-and-demand-risk` | Pan-India / Global / Comparative | `published` |
+| `KA-213` | **Avocado and Emerging Fruit Crops: Suitability Before Hype** | `avocado-and-emerging-fruit-crops-suitability-before-hype` | Pan-India / Global / Comparative | `published` |
+| `KA-214` | **Watermelon, Muskmelon and Short-Cycle Cucurbit Production** | `watermelon-muskmelon-and-short-cycle-cucurbit-production` | Pan-India / Global / Comparative | `published` |
+| `KA-215` | **Fruit Nursery Quality, Graft Authenticity and Orchard Replacement** | `fruit-nursery-quality-graft-authenticity-and-orchard-replacement` | Pan-India / Global / Comparative | `published` |
+| `KA-216` | **How Perishability and Price Gluts Change Fruit Profitability** | `how-perishability-and-price-gluts-change-fruit-profitability` | Pan-India / Global / Comparative | `published` |
 
 ## Part 19 — Vegetables and Market Gardening
 

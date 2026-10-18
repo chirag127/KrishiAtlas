@@ -198,7 +198,20 @@
   - `KA-202` — Banana: Planting Material, Nutrition and Harvest Logistics (Published)
   - `KA-203` — Orchard Establishment Costs, Bearing Delays and Capital Recovery (Published)
   - `KA-204` — Fruit-Grade Differentials, Rejection Rates and Realized Returns (Published)
+- **Part 18: Fruits: Tropical, Arid and Specialty Systems (12/12 Complete)**:
+  - `KA-205` — Mango Orchard Management, Alternate Bearing and Quality (Published)
+  - `KA-206` — Papaya Establishment, Disease Exposure and Crop Duration (Published)
+  - `KA-207` — Pineapple Production, Planting Material and Market Channels (Published)
+  - `KA-208` — Jackfruit, Breadfruit and Regionally Important Tropical Fruits (Published)
+  - `KA-209` — Coconut Plantation Economics and Intercropping Options (Published)
+  - `KA-210` — Arecanut, Cashew and Humid-Tropical Tree Crops (Published)
+  - `KA-211` — Date Palm and Arid-Zone Fruit Production (Published)
+  - `KA-212` — Dragon Fruit: Market Evidence, Trellis Investment and Demand Risk (Published)
+  - `KA-213` — Avocado and Emerging Fruit Crops: Suitability Before Hype (Published)
+  - `KA-214` — Watermelon, Muskmelon and Short-Cycle Cucurbit Production (Published)
+  - `KA-215` — Fruit Nursery Quality, Graft Authenticity and Orchard Replacement (Published)
+  - `KA-216` — How Perishability and Price Gluts Change Fruit Profitability (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 216 articles + master case study = **263,827 words** (2.04 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 18 (`KA-205` through `KA-216`: Fruits: Tropical, Arid and Specialty Systems).
+- **Master Book Progress:** 228 articles + master case study = **276,914 words** (2.13 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 19 (`KA-217` through `KA-228`: Vegetables and Market Gardening).
