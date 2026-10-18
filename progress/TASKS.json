@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T02:08:00+05:30",
+  "last_updated": "2026-10-19T02:18:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 144,
-  "completed_parts": 12,
-  "master_manuscript_words": 179617,
+  "completed_articles": 156,
+  "completed_parts": 13,
+  "master_manuscript_words": 202890,
   "milestones": [
     {
       "id": "M01",
@@ -123,6 +123,12 @@
           "status": "completed"
         },
         {
+          "part": 12,
+          "title": "Cereal Crops: Rice, Wheat, Maize and Other Grains",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -130,10 +136,10 @@
         }
       ],
       "active_part": {
-        "part": 12,
-        "title": "Cereal Crops: Rice, Wheat, Maize and Other Grains",
+        "part": 13,
+        "title": "Millets and Climate-Resilient Small Grains",
         "target_articles": 12,
-        "next_article": "KA-133"
+        "next_article": "KA-145"
       }
     }
   ]

@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T20:37:51.693973+00:00",
+  "generated_at": "2026-10-18T20:46:33.398805+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 144,
-  "total_words": 179617,
+  "included_articles_count": 156,
+  "total_words": 194076,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "8e22460189d964ddc24a1d8f7f16dc0f153f14fde0804f6c1de32d39030305f0",
+  "master_md_sha256": "f13a9cecee1cf8b1aba30271c8754f246c2d72749ff5323056cf4bb4937f405a",
   "articles": [
     {
       "id": "KA-001",
@@ -1464,132 +1464,132 @@
       "title": "Rice Ecosystems: Irrigated, Rainfed Lowland and Upland",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-133-rice-ecosystems-irrigated-rainfed-lowland-and-upland.md",
+      "sha256": "c877492b6032abc8931b29ba66d0e00f26abb6e522d2d4cc522463b852b81569",
+      "word_count": 1156,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-134",
       "title": "Direct-Seeded Rice, Transplanting and Establishment Trade-Offs",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-134-direct-seeded-rice-transplanting-and-establishment-trade-offs.md",
+      "sha256": "d11fc4504d78b1d8a09d83dafc79cfc6f8b9c3513bd3996cd87e46e9c23ac2a9",
+      "word_count": 1267,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-135",
       "title": "Rice Water Management, Nutrients and Weed Pressure",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-135-rice-water-management-nutrients-and-weed-pressure.md",
+      "sha256": "f88173432b84449f66bdfdb1e6b7a070c089a7da7d56f3168aee04b4b34e4087",
+      "word_count": 1349,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-136",
       "title": "Wheat Variety Selection, Sowing Windows and Heat Risk",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-136-wheat-variety-selection-sowing-windows-and-heat-risk.md",
+      "sha256": "0929555b639974f1105d8b27159d5a7a2db749a691bd5e6d2a07535ea2270d60",
+      "word_count": 1227,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-137",
       "title": "Wheat Irrigation Scheduling and Grain-Filling Management",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-137-wheat-irrigation-scheduling-and-grain-filling-management.md",
+      "sha256": "2ff28d5d2c3a4c19b0cd15583366494a56e1284a498a96bd6e4abe08eee80439",
+      "word_count": 1039,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-138",
       "title": "Maize for Grain, Fodder, Feed and Industrial Uses",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-138-maize-for-grain-fodder-feed-and-industrial-uses.md",
+      "sha256": "94336ec2a03b47c4fdb996a9f1a33d176655f25ada3f1b6366d1d1ce37af0944",
+      "word_count": 1183,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-139",
       "title": "Maize Pollination, Nutrients and Pest Monitoring",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-139-maize-pollination-nutrients-and-pest-monitoring.md",
+      "sha256": "07670d0aa34ce726a3ae2e8a116046d7a470072f1d7e11d3356701cf7b7b991a",
+      "word_count": 1252,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-140",
       "title": "Barley for Food, Feed and Malting Markets",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-140-barley-for-food-feed-and-malting-markets.md",
+      "sha256": "aa2c96fedd287f7729c59a5cdf28e1b6d84c6ce54882172fd1eb493b32a9b140",
+      "word_count": 1237,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-141",
       "title": "Sorghum, Oats and Other Important Cereal Systems",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-141-sorghum-oats-and-other-important-cereal-systems.md",
+      "sha256": "800b28315d8d901249adfe7d655cff05e046d9972c5244f0c3d56d2e57bf94ec",
+      "word_count": 1122,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-142",
       "title": "Cereal Straw, Residue Value and Competing Uses",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-142-cereal-straw-residue-value-and-competing-uses.md",
+      "sha256": "2c693d111b779ae487314ad5579989a17a8b37156789c8f998c372f922cc3222",
+      "word_count": 1207,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-143",
       "title": "Cereal Storage, Mycotoxin Risks and Grain Quality",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-143-cereal-storage-mycotoxin-risks-and-grain-quality.md",
+      "sha256": "adbb70821fea690f97989b9a7b52d805fd6c40e58534bd1e4678ba5c32183bcb",
+      "word_count": 1209,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-144",
       "title": "Cereal Farm Economics Under Different Market Channels",
       "part": 12,
       "part_title": "Cereals: Rice, Wheat, Maize and Barley",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-144-cereal-farm-economics-under-different-market-channels.md",
+      "sha256": "4a776e804b6466a74c14c30353e3d1a6c960c35da7e4cdc7579d2e43a472cd1e",
+      "word_count": 1211,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-145",

@@ -120,7 +120,20 @@
   - `KA-130` — Harvest Timing, Maturity Indices and Quality Preservation (Published)
   - `KA-131` — Cropping-System Trials, Yield Stability and Whole-Farm Returns (Published)
   - `KA-132` — Why Recommendations Must Match Local Agroecology (Published)
+- **Part 12: Cereal Crops: Rice, Wheat, Maize and Other Grains (12/12 Complete)**:
+  - `KA-133` — Rice Ecosystems: Irrigated, Rainfed Lowland and Upland (Published)
+  - `KA-134` — Direct-Seeded Rice, Transplanting and Establishment Trade-Offs (Published)
+  - `KA-135` — Rice Water Management, Nutrients and Weed Pressure (Published)
+  - `KA-136` — Wheat Variety Selection, Sowing Windows and Heat Risk (Published)
+  - `KA-137` — Wheat Irrigation Scheduling and Grain-Filling Management (Published)
+  - `KA-138` — Maize for Grain, Fodder, Feed and Industrial Uses (Published)
+  - `KA-139` — Maize Pollination, Nutrients and Pest Monitoring (Published)
+  - `KA-140` — Barley for Food, Feed and Malting Markets (Published)
+  - `KA-141` — Sorghum, Oats and Other Important Cereal Systems (Published)
+  - `KA-142` — Cereal Straw, Residue Value and Competing Uses (Published)
+  - `KA-143` — Cereal Storage, Mycotoxin Risks and Grain Quality (Published)
+  - `KA-144` — Cereal Farm Economics Under Different Market Channels (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 144 articles + master case study = **179,617 words** (1.4 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 12 (`KA-133` through `KA-144`: Cereal Crops: Rice, Wheat, Maize and Other Grains).
+- **Master Book Progress:** 156 articles + master case study = **202,890 words** (1.53 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 13 (`KA-145` through `KA-156`: Millets and Climate-Resilient Small Grains).
