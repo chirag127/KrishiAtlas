@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T19:54:17.460477+00:00",
+  "generated_at": "2026-10-18T20:04:53.857151+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 96,
-  "total_words": 120710,
+  "included_articles_count": 108,
+  "total_words": 135779,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "cec02cb11f8da4507da7eb886f9b3ccccfa6124e797c694edf92fa3093da9690",
+  "master_md_sha256": "94c76d4c9f11eae2e7e6c363a98325a9a7aa60d5f34a42bb0e2d1b1250d781f4",
   "articles": [
     {
       "id": "KA-001",
@@ -936,132 +936,132 @@
       "title": "Crop Water Demand, Evapotranspiration and Critical Growth Stages",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-085-crop-water-demand-evapotranspiration-and-critical-growth-stages.md",
+      "sha256": "7292f70402289f73423eff09e8fd1508084a4ac411e463051ce189d36d2b8e75",
+      "word_count": 1280,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-086",
       "title": "Surface Irrigation, Basin Irrigation and Field-Level Losses",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-086-surface-irrigation-basin-irrigation-and-field-level-losses.md",
+      "sha256": "b498dc8aa27b2d6d740b2e1e5fc37bf4958dfd014044e70dfae3f49ecc42e885",
+      "word_count": 1185,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-087",
       "title": "Drip Irrigation Design, Filtration and Maintenance",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-087-drip-irrigation-design-filtration-and-maintenance.md",
+      "sha256": "43575a8d92b74e46eac1cbe51f44fe28637b756991d1b463fbac074c097e914e",
+      "word_count": 1430,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-088",
       "title": "Sprinkler Systems, Uniformity and Wind Limitations",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-088-sprinkler-systems-uniformity-and-wind-limitations.md",
+      "sha256": "e1d1a61b89eb2dc1266af62f6f5bf5f7ce3f56046686666ef97235c46d6a11af",
+      "word_count": 1244,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-089",
       "title": "Micro-Irrigation Economics, Subsidies and Payback Risks",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-089-micro-irrigation-economics-subsidies-and-payback-risks.md",
+      "sha256": "5700fd9f1d4eb688cbc36948daeb2f8080c20ba9306578589bf8cbe2e1072ca6",
+      "word_count": 1272,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-090",
       "title": "Pumps, Motors, Energy Use and Irrigation Scheduling",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-090-pumps-motors-energy-use-and-irrigation-scheduling.md",
+      "sha256": "3e0b73d740a07121f7964bab198d232a07c39f5f769cd0bb3971f70b4101a816",
+      "word_count": 1357,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-091",
       "title": "Groundwater Levels, Aquifer Recharge and Sustainable Withdrawal",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-091-groundwater-levels-aquifer-recharge-and-sustainable-withdrawal.md",
+      "sha256": "772d9b99fa15139975f71e10ef47047289af57b09883d8c37f6bdcf6d39f23f0",
+      "word_count": 1122,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-092",
       "title": "Canal Water, Community Water Systems and Allocation Conflicts",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-092-canal-water-community-water-systems-and-allocation-conflicts.md",
+      "sha256": "10981512a1f2698667489b464485098c741bc1ac10deb744cb4ed32e3a62f64f",
+      "word_count": 1177,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-093",
       "title": "Water Quality, Salinity, Sodicity and Crop Tolerance",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-093-water-quality-salinity-sodicity-and-crop-tolerance.md",
+      "sha256": "a88a35c238f2909be0e76efba7b18aedb0bcd30b26da6a22372a782fa18cf6eb",
+      "word_count": 1318,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-094",
       "title": "Rainwater Harvesting, Farm Ponds and Storage Design Principles",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-094-rainwater-harvesting-farm-ponds-and-storage-design-principles.md",
+      "sha256": "c0198418f36725d5a0944680146fc4d0270cf5a62b00f9598e9a6d02582f0125",
+      "word_count": 1268,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-095",
       "title": "Water Budgeting and Drought-Year Cropping Decisions",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-095-water-budgeting-and-drought-year-cropping-decisions.md",
+      "sha256": "44fd56b9dac66188cc70e938d9c68a989b3981e0119e9736f7eb5444f6a02b58",
+      "word_count": 1305,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-096",
       "title": "Why a Water-Intensive Crop May Be Unsuitable Despite High Prices",
       "part": 8,
       "part_title": "Water, Irrigation and Groundwater",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-096-why-a-water-intensive-crop-may-be-unsuitable-despite-high-prices.md",
+      "sha256": "f917279b083e34effbfb0f731f9e2f178ee0d95cbdea08cb5a6dc5408f2d75ca",
+      "word_count": 1111,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-097",

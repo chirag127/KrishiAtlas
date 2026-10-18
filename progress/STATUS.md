@@ -68,7 +68,20 @@
   - `KA-082` — Liming, Gypsum and Soil Amendments: When They Are Appropriate (Published)
   - `KA-083` — Fertigation, Foliar Feeding and Root-Zone Delivery (Published)
   - `KA-084` — Avoiding Excess Fertilizer, False Claims and Unnecessary Inputs (Published)
+- **Part 08: Water, Irrigation and Groundwater (12/12 Complete)**:
+  - `KA-085` — Crop Water Demand, Evapotranspiration and Critical Growth Stages (Published)
+  - `KA-086` — Surface Irrigation, Basin Irrigation and Field-Level Losses (Published)
+  - `KA-087` — Drip Irrigation Design, Filtration and Maintenance (Published)
+  - `KA-088` — Sprinkler Systems, Uniformity and Wind Limitations (Published)
+  - `KA-089` — Micro-Irrigation Economics, Subsidies and Payback Risks (Published)
+  - `KA-090` — Pumps, Motors, Energy Use and Irrigation Scheduling (Published)
+  - `KA-091` — Groundwater Levels, Aquifer Recharge and Sustainable Withdrawal (Published)
+  - `KA-092` — Canal Water, Community Water Systems and Allocation Conflicts (Published)
+  - `KA-093` — Water Quality, Salinity, Sodicity and Crop Tolerance (Published)
+  - `KA-094` — Rainwater Harvesting, Farm Ponds and Storage Design Principles (Published)
+  - `KA-095` — Water Budgeting and Drought-Year Cropping Decisions (Published)
+  - `KA-096` — Why a Water-Intensive Crop May Be Unsuitable Despite High Prices (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 96 articles + master case study = **120,710 words** (992 KB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 08 (`KA-085` through `KA-096`: Seeds, Propagation, Varieties and Crop Establishment).
+- **Master Book Progress:** 108 articles + master case study = **135,779 words** (1.1 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 09 (`KA-097` through `KA-108`: Weather, Climate, Seasons and Agrometeorology).
