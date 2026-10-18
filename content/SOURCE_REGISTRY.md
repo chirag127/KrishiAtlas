@@ -43,6 +43,11 @@ This registry records authoritative primary institutions, legislative statutes, 
 | `SRC-0027` | **CIFT & CIFA (ICAR Fisheries Institutes)** | Freshwater aquaculture (carp), brackishwater shrimp, fish processing. | Hatchery protocols, feed conversion ratios (FCR). |
 | `SRC-0028` | **CPRI — Central Potato Research Institute, Shimla** | Aeroponics, apical root cuttings, potato seed certification. | True potato seed and cold storage physiological standards. |
 | `SRC-0029` | **IIHR — Indian Institute of Horticultural Research, Bengaluru** | Tropical fruits, vegetables, polyhouse flower and vegetable production. | Protected cultivation protocols and bio-fertilizers. |
+| `SRC-0030` | **ICAR-IISR & ICAR-SBI (Sugarcane Institutes)** | Sugarcane breeding, ratoon management, subtropical/tropical sugarcane agronomy. | Lucknow and Coimbatore apex sugarcane research bodies. |
+| `SRC-0031` | **ICAR-CICR (Central Institute for Cotton Research, Nagpur)** | Cotton agronomy, Bt cotton resistance management, high-density planting systems. | Apex research on Gossypium hirsutum and arboreum systems. |
+| `SRC-0032` | **ICAR-CRIJAF (Jute and Allied Fibres, Barrackpore)** | Jute and mesta breeding, microbial retting protocols (CRIJAF Sona), natural bast fibres. | Apex national institute for Corchorus and allied fibres. |
+| `SRC-0033` | **ICAR-CTRI (Central Tobacco Research Institute, Rajahmundry)** | FCV and non-FCV tobacco production, Tobacco Board regulation, curing economics. | National authority on tobacco agronomy and curing barn systems. |
+| `SRC-0034` | **ICAR-CTCRI (Central Tuber Crops Research Institute, Thiruvananthapuram)** | Cassava, sweet potato, yams, industrial tuber starch processing, value chains. | Apex research on tropical tuber crops and industrial starch extraction. |
 
 ---
 

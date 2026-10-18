@@ -268,18 +268,18 @@ This is the authoritative inventory of all required articles across all 90 parts
 
 | ID | Title | Slug | Target Scope | Initial Status |
 |---|---|---|---|---|
-| `KA-181` | **Sugarcane Establishment, Ratoon Management and Crop Duration** | `sugarcane-establishment-ratoon-management-and-crop-duration` | Pan-India / Global / Comparative | `draft` |
-| `KA-182` | **Sugarcane Water Use, Trash Management and Nutrient Needs** | `sugarcane-water-use-trash-management-and-nutrient-needs` | Pan-India / Global / Comparative | `draft` |
-| `KA-183` | **Cotton Variety Choice, Resistance Management and Picking** | `cotton-variety-choice-resistance-management-and-picking` | Pan-India / Global / Comparative | `draft` |
-| `KA-184` | **Jute, Mesta and Natural Fibre Crop Systems** | `jute-mesta-and-natural-fibre-crop-systems` | Pan-India / Global / Comparative | `draft` |
-| `KA-185` | **Tobacco Production, Regulation, Health and Market Exposure** | `tobacco-production-regulation-health-and-market-exposure` | Pan-India / Global / Comparative | `draft` |
-| `KA-186` | **Potato Starch, Cassava and Industrial Root Crop Chains** | `potato-starch-cassava-and-industrial-root-crop-chains` | Pan-India / Global / Comparative | `draft` |
-| `KA-187` | **Industrial Hemp and Other Regulated Fibre Crops: Legal Verification First** | `industrial-hemp-and-other-regulated-fibre-crops-legal-verification-first` | Pan-India / Global / Comparative | `draft` |
-| `KA-188` | **Indigo, Dye Plants and Other Niche Industrial Crops** | `indigo-dye-plants-and-other-niche-industrial-crops` | Pan-India / Global / Comparative | `draft` |
-| `KA-189` | **Bioenergy Crops, Biomass Supply and Land-Use Trade-Offs** | `bioenergy-crops-biomass-supply-and-land-use-trade-offs` | Pan-India / Global / Comparative | `draft` |
-| `KA-190` | **Contract Specifications, Quality Rejection and Payment Risk** | `contract-specifications-quality-rejection-and-payment-risk` | Pan-India / Global / Comparative | `draft` |
-| `KA-191` | **Processing Mill Access, Haulage Distance and Farm-Gate Returns** | `processing-mill-access-haulage-distance-and-farm-gate-returns` | Pan-India / Global / Comparative | `draft` |
-| `KA-192` | **When Industrial Crops Depend on One Buyer or One Factory** | `when-industrial-crops-depend-on-one-buyer-or-one-factory` | Pan-India / Global / Comparative | `draft` |
+| `KA-181` | **Sugarcane Establishment, Ratoon Management and Crop Duration** | `sugarcane-establishment-ratoon-management-and-crop-duration` | Pan-India / Global / Comparative | `published` |
+| `KA-182` | **Sugarcane Water Use, Trash Management and Nutrient Needs** | `sugarcane-water-use-trash-management-and-nutrient-needs` | Pan-India / Global / Comparative | `published` |
+| `KA-183` | **Cotton Variety Choice, Resistance Management and Picking** | `cotton-variety-choice-resistance-management-and-picking` | Pan-India / Global / Comparative | `published` |
+| `KA-184` | **Jute, Mesta and Natural Fibre Crop Systems** | `jute-mesta-and-natural-fibre-crop-systems` | Pan-India / Global / Comparative | `published` |
+| `KA-185` | **Tobacco Production, Regulation, Health and Market Exposure** | `tobacco-production-regulation-health-and-market-exposure` | Pan-India / Global / Comparative | `published` |
+| `KA-186` | **Potato Starch, Cassava and Industrial Root Crop Chains** | `potato-starch-cassava-and-industrial-root-crop-chains` | Pan-India / Global / Comparative | `published` |
+| `KA-187` | **Industrial Hemp and Other Regulated Fibre Crops: Legal Verification First** | `industrial-hemp-and-other-regulated-fibre-crops-legal-verification-first` | Pan-India / Global / Comparative | `published` |
+| `KA-188` | **Indigo, Dye Plants and Other Niche Industrial Crops** | `indigo-dye-plants-and-other-niche-industrial-crops` | Pan-India / Global / Comparative | `published` |
+| `KA-189` | **Bioenergy Crops, Biomass Supply and Land-Use Trade-Offs** | `bioenergy-crops-biomass-supply-and-land-use-trade-offs` | Pan-India / Global / Comparative | `published` |
+| `KA-190` | **Contract Specifications, Quality Rejection and Payment Risk** | `contract-specifications-quality-rejection-and-payment-risk` | Pan-India / Global / Comparative | `published` |
+| `KA-191` | **Processing Mill Access, Haulage Distance and Farm-Gate Returns** | `processing-mill-access-haulage-distance-and-farm-gate-returns` | Pan-India / Global / Comparative | `published` |
+| `KA-192` | **When Industrial Crops Depend on One Buyer or One Factory** | `when-industrial-crops-depend-on-one-buyer-or-one-factory` | Pan-India / Global / Comparative | `published` |
 
 ## Part 17 — Fruits: Temperate and Subtropical Systems
 

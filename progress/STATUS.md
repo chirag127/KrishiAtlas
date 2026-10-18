@@ -172,7 +172,20 @@
   - `KA-178` — Import Competition, Domestic Prices and Policy Effects (Published)
   - `KA-179` — Oilseed Crop Rotation, Soil Health and Pest Breaks (Published)
   - `KA-180` — Comparing Oilseed Gross Margins Without Treating Them as Guaranteed (Published)
+- **Part 16: Sugar, Fibre, Starch and Industrial Crops (12/12 Complete)**:
+  - `KA-181` — Sugarcane Establishment, Ratoon Management and Crop Duration (Published)
+  - `KA-182` — Sugarcane Water Use, Trash Management and Nutrient Needs (Published)
+  - `KA-183` — Cotton Variety Choice, Resistance Management and Picking (Published)
+  - `KA-184` — Jute, Mesta and Natural Fibre Crop Systems (Published)
+  - `KA-185` — Tobacco Production, Regulation, Health and Market Exposure (Published)
+  - `KA-186` — Potato Starch, Cassava and Industrial Root Crop Chains (Published)
+  - `KA-187` — Industrial Hemp and Other Regulated Fibre Crops: Legal Verification First (Published)
+  - `KA-188` — Indigo, Dye Plants and Other Niche Industrial Crops (Published)
+  - `KA-189` — Bioenergy Crops, Biomass Supply and Land-Use Trade-Offs (Published)
+  - `KA-190` — Contract Specifications, Quality Rejection and Payment Risk (Published)
+  - `KA-191` — Processing Mill Access, Haulage Distance and Farm-Gate Returns (Published)
+  - `KA-192` — When Industrial Crops Depend on One Buyer or One Factory (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 192 articles + master case study = **238,250 words** (1.85 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 16 (`KA-181` through `KA-192`: Sugar, Fibre, Starch and Industrial Crops).
+- **Master Book Progress:** 204 articles + master case study = **250,697 words** (1.94 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 17 (`KA-193` through `KA-204`: Fruits: Temperate and Subtropical Systems).

@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T21:14:29.823932+00:00",
+  "generated_at": "2026-10-18T21:23:31.413517+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 192,
-  "total_words": 238250,
+  "included_articles_count": 204,
+  "total_words": 250697,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "82392086369e7e72043457069cd61db278224bd77a7703df55ac01c90ed79e28",
+  "master_md_sha256": "c20a5c540d777418a930e2a04c2e946752d3755d7a51f709092d2b78286e9b1c",
   "articles": [
     {
       "id": "KA-001",
@@ -1992,132 +1992,132 @@
       "title": "Sugarcane Establishment, Ratoon Management and Crop Duration",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-181-sugarcane-establishment-ratoon-management-and-crop-duration.md",
+      "sha256": "bb223116407469fe68b727385950bfffd5dfba7aab00774073dcf7b7a157615b",
+      "word_count": 1200,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-182",
       "title": "Sugarcane Water Use, Trash Management and Nutrient Needs",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-182-sugarcane-water-use-trash-management-and-nutrient-needs.md",
+      "sha256": "3b98f04bda7008fcad32863853c32d4c3465af9a64e4004dd3183f771fe831b3",
+      "word_count": 1263,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-183",
       "title": "Cotton Variety Choice, Resistance Management and Picking",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-183-cotton-variety-choice-resistance-management-and-picking.md",
+      "sha256": "ffe7552be66cd1172feb2b3199ee535f00cd91b0a5007b0f145ec3f3a3026a63",
+      "word_count": 1160,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-184",
       "title": "Jute, Mesta and Natural Fibre Crop Systems",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-184-jute-mesta-and-natural-fibre-crop-systems.md",
+      "sha256": "d0e8512e42dbc814cd6bdd41ce00976d287c9a2366ee97353baa94192c3db50d",
+      "word_count": 1084,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-185",
       "title": "Tobacco Production, Regulation, Health and Market Exposure",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-185-tobacco-production-regulation-health-and-market-exposure.md",
+      "sha256": "b9993d6765b204073cbb7929661bbd3365160a61cf3858d3edf058e6b7f55618",
+      "word_count": 935,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-186",
       "title": "Potato Starch, Cassava and Industrial Root Crop Chains",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-186-potato-starch-cassava-and-industrial-root-crop-chains.md",
+      "sha256": "34e6f2abcafdb17c402e4dd35314b14ff2a2ba56266ae3e3c9f44360a5708418",
+      "word_count": 1043,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-187",
       "title": "Industrial Hemp and Other Regulated Fibre Crops: Legal Verification First",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-187-industrial-hemp-and-other-regulated-fibre-crops-legal-verification-first.md",
+      "sha256": "0c3e90008eaa99fd442c5c0f7ed9ed68b48d87a6c5cdd5d87d99f3d295d3d41c",
+      "word_count": 1066,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-188",
       "title": "Indigo, Dye Plants and Other Niche Industrial Crops",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-188-indigo-dye-plants-and-other-niche-industrial-crops.md",
+      "sha256": "8c67923b99a27afbea63bca4a6b70fab9302efe7b011b7042df40a105d07f1ec",
+      "word_count": 1011,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-189",
       "title": "Bioenergy Crops, Biomass Supply and Land-Use Trade-Offs",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-189-bioenergy-crops-biomass-supply-and-land-use-trade-offs.md",
+      "sha256": "19b85e82cafefb7e4611ef231208ea4c89f2645006a628985cf0a150998a24af",
+      "word_count": 893,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-190",
       "title": "Contract Specifications, Quality Rejection and Payment Risk",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-190-contract-specifications-quality-rejection-and-payment-risk.md",
+      "sha256": "cb663fa1979347243a32a538be5a4e5e2ceee3b299ec7579a9d5171074df532e",
+      "word_count": 867,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-191",
       "title": "Processing Mill Access, Haulage Distance and Farm-Gate Returns",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-191-processing-mill-access-haulage-distance-and-farm-gate-returns.md",
+      "sha256": "615da477277b41c9191206733e242fac1459ae51029d7a1f3d44068ca1cb69e9",
+      "word_count": 950,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-192",
       "title": "When Industrial Crops Depend on One Buyer or One Factory",
       "part": 16,
       "part_title": "Sugar, Fibre, Starch and Industrial Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-192-when-industrial-crops-depend-on-one-buyer-or-one-factory.md",
+      "sha256": "963bd758238c327fe8d8ea41511cd7c2583f61a6a939642f15fd56bfe41118c0",
+      "word_count": 975,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-193",
