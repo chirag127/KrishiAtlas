@@ -29,6 +29,9 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install Python Dependencies
+        run: pip install pyyaml
+
       - name: Validate Content & Schema
         run: python scripts/validate_content.py
 
