@@ -285,18 +285,18 @@ This is the authoritative inventory of all required articles across all 90 parts
 
 | ID | Title | Slug | Target Scope | Initial Status |
 |---|---|---|---|---|
-| `KA-193` | **Apple Orchard Establishment, Chilling and Pollination** | `apple-orchard-establishment-chilling-and-pollination` | Pan-India / Global / Comparative | `draft` |
-| `KA-194` | **Pear, Plum and Peach Production Under Suitable Climates** | `pear-plum-and-peach-production-under-suitable-climates` | Pan-India / Global / Comparative | `draft` |
-| `KA-195` | **Citrus Orchard Selection, Rootstocks and Decline Risks** | `citrus-orchard-selection-rootstocks-and-decline-risks` | Pan-India / Global / Comparative | `draft` |
-| `KA-196` | **Grapes for Table, Raisin and Processing Markets** | `grapes-for-table-raisin-and-processing-markets` | Pan-India / Global / Comparative | `draft` |
-| `KA-197` | **Pomegranate: Flowering Cycles, Cracking and Disease Risk** | `pomegranate-flowering-cycles-cracking-and-disease-risk` | Pan-India / Global / Comparative | `draft` |
-| `KA-198` | **Guava Orchards, Pruning and Fruit Quality Management** | `guava-orchards-pruning-and-fruit-quality-management` | Pan-India / Global / Comparative | `draft` |
-| `KA-199` | **Aonla, Ber and Other Subtropical Dryland Fruits** | `aonla-ber-and-other-subtropical-dryland-fruits` | Pan-India / Global / Comparative | `draft` |
-| `KA-200` | **Litchi Flowering, Fruit Cracking and Harvest Handling** | `litchi-flowering-fruit-cracking-and-harvest-handling` | Pan-India / Global / Comparative | `draft` |
-| `KA-201` | **Strawberry Production, Cold Chain and Perishable-Market Risk** | `strawberry-production-cold-chain-and-perishable-market-risk` | Pan-India / Global / Comparative | `draft` |
-| `KA-202` | **Banana: Planting Material, Nutrition and Harvest Logistics** | `banana-planting-material-nutrition-and-harvest-logistics` | Pan-India / Global / Comparative | `draft` |
-| `KA-203` | **Orchard Establishment Costs, Bearing Delays and Capital Recovery** | `orchard-establishment-costs-bearing-delays-and-capital-recovery` | Pan-India / Global / Comparative | `draft` |
-| `KA-204` | **Fruit-Grade Differentials, Rejection Rates and Realized Returns** | `fruit-grade-differentials-rejection-rates-and-realized-returns` | Pan-India / Global / Comparative | `draft` |
+| `KA-193` | **Apple Orchard Establishment, Chilling and Pollination** | `apple-orchard-establishment-chilling-and-pollination` | Pan-India / Global / Comparative | `published` |
+| `KA-194` | **Pear, Plum and Peach Production Under Suitable Climates** | `pear-plum-and-peach-production-under-suitable-climates` | Pan-India / Global / Comparative | `published` |
+| `KA-195` | **Citrus Orchard Selection, Rootstocks and Decline Risks** | `citrus-orchard-selection-rootstocks-and-decline-risks` | Pan-India / Global / Comparative | `published` |
+| `KA-196` | **Grapes for Table, Raisin and Processing Markets** | `grapes-for-table-raisin-and-processing-markets` | Pan-India / Global / Comparative | `published` |
+| `KA-197` | **Pomegranate: Flowering Cycles, Cracking and Disease Risk** | `pomegranate-flowering-cycles-cracking-and-disease-risk` | Pan-India / Global / Comparative | `published` |
+| `KA-198` | **Guava Orchards, Pruning and Fruit Quality Management** | `guava-orchards-pruning-and-fruit-quality-management` | Pan-India / Global / Comparative | `published` |
+| `KA-199` | **Aonla, Ber and Other Subtropical Dryland Fruits** | `aonla-ber-and-other-subtropical-dryland-fruits` | Pan-India / Global / Comparative | `published` |
+| `KA-200` | **Litchi Flowering, Fruit Cracking and Harvest Handling** | `litchi-flowering-fruit-cracking-and-harvest-handling` | Pan-India / Global / Comparative | `published` |
+| `KA-201` | **Strawberry Production, Cold Chain and Perishable-Market Risk** | `strawberry-production-cold-chain-and-perishable-market-risk` | Pan-India / Global / Comparative | `published` |
+| `KA-202` | **Banana: Planting Material, Nutrition and Harvest Logistics** | `banana-planting-material-nutrition-and-harvest-logistics` | Pan-India / Global / Comparative | `published` |
+| `KA-203` | **Orchard Establishment Costs, Bearing Delays and Capital Recovery** | `orchard-establishment-costs-bearing-delays-and-capital-recovery` | Pan-India / Global / Comparative | `published` |
+| `KA-204` | **Fruit-Grade Differentials, Rejection Rates and Realized Returns** | `fruit-grade-differentials-rejection-rates-and-realized-returns` | Pan-India / Global / Comparative | `published` |
 
 ## Part 18 — Fruits: Tropical, Arid and Specialty Systems
 

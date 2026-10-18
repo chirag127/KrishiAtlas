@@ -48,6 +48,8 @@ This registry records authoritative primary institutions, legislative statutes, 
 | `SRC-0032` | **ICAR-CRIJAF (Jute and Allied Fibres, Barrackpore)** | Jute and mesta breeding, microbial retting protocols (CRIJAF Sona), natural bast fibres. | Apex national institute for Corchorus and allied fibres. |
 | `SRC-0033` | **ICAR-CTRI (Central Tobacco Research Institute, Rajahmundry)** | FCV and non-FCV tobacco production, Tobacco Board regulation, curing economics. | National authority on tobacco agronomy and curing barn systems. |
 | `SRC-0034` | **ICAR-CTCRI (Central Tuber Crops Research Institute, Thiruvananthapuram)** | Cassava, sweet potato, yams, industrial tuber starch processing, value chains. | Apex research on tropical tuber crops and industrial starch extraction. |
+| `SRC-0035` | **ICAR-CITH & ICAR-CISH (Temperate & Subtropical Horticulture)** | Apple, pear, peach, stone fruits, mango, guava meadow orcharding, canopy architecture. | Srinagar and Lucknow apex temperate and subtropical fruit research bodies. |
+| `SRC-0036` | **ICAR-CCRI, ICAR-NRCG & ICAR-NRCP (Citrus, Grape, Pomegranate Institutes)** | Citrus decline, grape Dogridge rootstock and pruning systems, pomegranate bahar management. | Nagpur, Pune, and Solapur specialized fruit crop research directorates. |
 
 ---
 

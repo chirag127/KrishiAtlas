@@ -185,7 +185,20 @@
   - `KA-190` — Contract Specifications, Quality Rejection and Payment Risk (Published)
   - `KA-191` — Processing Mill Access, Haulage Distance and Farm-Gate Returns (Published)
   - `KA-192` — When Industrial Crops Depend on One Buyer or One Factory (Published)
+- **Part 17: Fruits: Temperate and Subtropical Systems (12/12 Complete)**:
+  - `KA-193` — Apple Orchard Establishment, Chilling and Pollination (Published)
+  - `KA-194` — Pear, Plum and Peach Production Under Suitable Climates (Published)
+  - `KA-195` — Citrus Orchard Selection, Rootstocks and Decline Risks (Published)
+  - `KA-196` — Grapes for Table, Raisin and Processing Markets (Published)
+  - `KA-197` — Pomegranate: Flowering Cycles, Cracking and Disease Risk (Published)
+  - `KA-198` — Guava Orchards, Pruning and Fruit Quality Management (Published)
+  - `KA-199` — Aonla, Ber and Other Subtropical Dryland Fruits (Published)
+  - `KA-200` — Litchi Flowering, Fruit Cracking and Harvest Handling (Published)
+  - `KA-201` — Strawberry Production, Cold Chain and Perishable-Market Risk (Published)
+  - `KA-202` — Banana: Planting Material, Nutrition and Harvest Logistics (Published)
+  - `KA-203` — Orchard Establishment Costs, Bearing Delays and Capital Recovery (Published)
+  - `KA-204` — Fruit-Grade Differentials, Rejection Rates and Realized Returns (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 204 articles + master case study = **250,697 words** (1.94 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 17 (`KA-193` through `KA-204`: Fruits: Temperate and Subtropical Systems).
+- **Master Book Progress:** 216 articles + master case study = **263,827 words** (2.04 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 18 (`KA-205` through `KA-216`: Fruits: Tropical, Arid and Specialty Systems).

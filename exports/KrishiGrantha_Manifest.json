@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T21:23:31.413517+00:00",
+  "generated_at": "2026-10-18T21:31:15.061771+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 204,
-  "total_words": 250697,
+  "included_articles_count": 216,
+  "total_words": 263827,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "c20a5c540d777418a930e2a04c2e946752d3755d7a51f709092d2b78286e9b1c",
+  "master_md_sha256": "1263550554fdd0d4f05b06e0aa29aeb3da58b18a377ae76c2983bc6046e8a21f",
   "articles": [
     {
       "id": "KA-001",
@@ -2124,132 +2124,132 @@
       "title": "Apple Orchard Establishment, Chilling and Pollination",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-193-apple-orchard-establishment-chilling-and-pollination.md",
+      "sha256": "98763105fa3337b5761dd3129b4fea12b41a20a573f8ce541bdaa049d6f5301e",
+      "word_count": 1050,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-194",
       "title": "Pear, Plum and Peach Production Under Suitable Climates",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-194-pear-plum-and-peach-production-under-suitable-climates.md",
+      "sha256": "cc1da3109914da97d174ad8f2a4e3b09cde496176a06c7571be993bbd8ae9369",
+      "word_count": 1040,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-195",
       "title": "Citrus Orchard Selection, Rootstocks and Decline Risks",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-195-citrus-orchard-selection-rootstocks-and-decline-risks.md",
+      "sha256": "94e8b4860a04c46350192bde535c6d9dd844141171c12362c66b34b477a8f5d6",
+      "word_count": 1071,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-196",
       "title": "Grapes for Table, Raisin and Processing Markets",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-196-grapes-for-table-raisin-and-processing-markets.md",
+      "sha256": "109f2106f65c11cb5d0109d8d0a7143609f0a77f1318fdcf30ca4b9082704d9e",
+      "word_count": 1077,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-197",
       "title": "Pomegranate: Flowering Cycles, Cracking and Disease Risk",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-197-pomegranate-flowering-cycles-cracking-and-disease-risk.md",
+      "sha256": "bbbbd1f378e7dd7bbb13877f2d28609e9ea4c6782195bde673cb0694165dff77",
+      "word_count": 1079,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-198",
       "title": "Guava Orchards, Pruning and Fruit Quality Management",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-198-guava-orchards-pruning-and-fruit-quality-management.md",
+      "sha256": "90348aed871934d5b46005488bcc17eeee88a937433eba9c4d7d30a856e92e8d",
+      "word_count": 1165,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-199",
       "title": "Aonla, Ber and Other Subtropical Dryland Fruits",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-199-aonla-ber-and-other-subtropical-dryland-fruits.md",
+      "sha256": "e386d4e1ca2d396edb7288fbac7648f7ba7a89d16c37329b51526f3a4d956587",
+      "word_count": 1069,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-200",
       "title": "Litchi Flowering, Fruit Cracking and Harvest Handling",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-200-litchi-flowering-fruit-cracking-and-harvest-handling.md",
+      "sha256": "694f2161c282616f36b4c6559450b727021789c8223a0c5fcd91e73423947215",
+      "word_count": 1173,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-201",
       "title": "Strawberry Production, Cold Chain and Perishable-Market Risk",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-201-strawberry-production-cold-chain-and-perishable-market-risk.md",
+      "sha256": "9f695dec9b87943aff8aa50826300af0b1dc0e987a6b035c6fc0bc47d4c2537a",
+      "word_count": 1067,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-202",
       "title": "Banana: Planting Material, Nutrition and Harvest Logistics",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-202-banana-planting-material-nutrition-and-harvest-logistics.md",
+      "sha256": "c8be192bd2e7f8e02605c47d2e33638e8a0ea2f3b78cde981236e167434ca11c",
+      "word_count": 1202,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-203",
       "title": "Orchard Establishment Costs, Bearing Delays and Capital Recovery",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-203-orchard-establishment-costs-bearing-delays-and-capital-recovery.md",
+      "sha256": "cbd68921271d8a657d6f318400019d0609290d904da9479b622204904672eee1",
+      "word_count": 1089,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-204",
       "title": "Fruit-Grade Differentials, Rejection Rates and Realized Returns",
       "part": 17,
       "part_title": "Fruits: Temperate and Subtropical Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-204-fruit-grade-differentials-rejection-rates-and-realized-returns.md",
+      "sha256": "24ba4218b026ebc414c5702cddb0d73699f3f5c8f92c3d04c76c54953401fa7e",
+      "word_count": 1048,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-205",
