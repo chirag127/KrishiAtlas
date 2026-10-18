@@ -1,0 +1,32 @@
+{
+  "name": "krishiatlas",
+  "version": "1.0.0",
+  "description": "KrishiAtlas & KrishiGrantha — Open-Access Agriculture Encyclopedia and Concatenated Compendium",
+  "main": "site/app.js",
+  "scripts": {
+    "dev": "python -m http.server 3000 --directory site",
+    "build:book": "python scripts/build_book.py",
+    "build:search": "python scripts/build_search.py",
+    "build:site": "python scripts/build_site.py",
+    "build": "python scripts/build_book.py && python scripts/build_search.py && python scripts/build_site.py",
+    "validate": "python scripts/validate_content.py",
+    "duplicates": "python scripts/check_duplicates.py",
+    "coverage": "python scripts/check_coverage.py",
+    "links": "python scripts/check_links.py",
+    "privacy": "python scripts/privacy_audit.py",
+    "test:book": "python scripts/test_book.py",
+    "test": "python scripts/test_book.py && python scripts/validate_content.py && python scripts/privacy_audit.py && python scripts/check_duplicates.py && python scripts/check_links.py"
+  },
+  "keywords": [
+    "agriculture",
+    "krishiatlas",
+    "krishigrantha",
+    "farming",
+    "india",
+    "taxation",
+    "subsidies",
+    "agronomy"
+  ],
+  "author": "KrishiAtlas Editorial Collective",
+  "license": "CC-BY-4.0"
+}

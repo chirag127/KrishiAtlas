@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KrishiAtlas — The Agricultural Knowledge Encyclopedia</title>
+  <meta name="description" content="Evidence-based compendium of Indian and global agriculture, farm economics, taxation, public subsidies, and agribusiness strategy.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-wrapper">
+        <div class="brand-icon">KA</div>
+        <div class="brand-text">
+          <span class="brand-title">KrishiAtlas</span>
+          <span class="brand-sub">The Agriculture Encyclopedia</span>
+        </div>
+      </a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html" class="nav-link active">Home</a></li>
+          <li><a href="articles.html" class="nav-link">Articles (1,080)</a></li>
+          <li><a href="subsidies.html" class="nav-link">Subsidies</a></li>
+          <li><a href="taxation.html" class="nav-link">Tax Law</a></li>
+          <li><a href="land.html" class="nav-link">Land Market</a></li>
+          <li><a href="courses.html" class="nav-link">Free Courses</a></li>
+          <li><a href="case-study.html" class="nav-link">Owner Case Study</a></li>
+          <li><a href="book.html" class="nav-link">KrishiGrantha Book</a></li>
+        </ul>
+      </nav>
+      <div class="nav-actions">
+        <button id="theme-toggle-btn" class="theme-toggle-btn">🌙 Dark</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="hero-badge">🌱 Multi-Disciplinary Agriscience & Economic Compendium</div>
+    <h1 class="hero-title">Evidence-Based Agriculture, Farm Economics & Rural Enterprise</h1>
+    <p class="hero-subtitle">
+      A comprehensive open-access encyclopedia bridging scientific agronomy, direct and indirect taxation, government subsidies, land tenure laws, and risk-adjusted farm profitability across India and the world.
+    </p>
+
+    <!-- Global Search -->
+    <div class="hero-search-wrapper">
+      <span class="search-icon-adornment">🔍</span>
+      <input type="text" id="global-search-input" class="search-input-box" placeholder="Search 1,080 topics, subsidies, tax laws, crops, or states (e.g. 'Sugarcane', 'Section 10(1)', 'PM-KISAN', 'Ghaziabad')...">
+      <div id="search-results" style="display: none; position: absolute; top: 105%; left: 0; right: 0; background: var(--bg-surface); border: 1px solid var(--border-medium); border-radius: var(--radius-md); box-shadow: var(--shadow-lg); max-height: 400px; overflow-y: auto; z-index: 1000; text-align: left;"></div>
+    </div>
+
+    <!-- Live Statistics Banner -->
+    <div class="stats-banner">
+      <div class="stat-card">
+        <div class="stat-number">90</div>
+        <div class="stat-label">Core Parts</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">1,080</div>
+        <div class="stat-label">Catalog Topics</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">28 + 8</div>
+        <div class="stat-label">States & UTs Covered</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">100%</div>
+        <div class="stat-label">Free & Open Access</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Core Knowledge Pillars -->
+  <main class="main-container">
+    <div class="section-header">
+      <div>
+        <h2 class="section-title">Specialized Agricultural Hubs</h2>
+        <p class="section-sub">Explore statutory registers, empirical financial models, free government education directories, and cadastral due diligence guides.</p>
+      </div>
+    </div>
+
+    <div class="feature-grid">
+      <!-- Hub 1: Subsidies -->
+      <a href="subsidies.html" class="feature-card">
+        <span class="feature-card-tag tag-subsidy">Statutory Register</span>
+        <h3 class="feature-card-title">Subsidies & Public Benefits</h3>
+        <p class="feature-card-desc">
+          Official eligibility, application SOPs, fund exhaustion patterns, and DBT mechanisms for PM-KISAN, Agri Infrastructure Fund (AIF), MIDH, SMAM, and PMKSY.
+        </p>
+        <div class="feature-card-meta">
+          <span>Central & State Dossiers</span>
+          <span>Explore Register →</span>
+        </div>
+      </a>
+
+      <!-- Hub 2: Tax Law -->
+      <a href="taxation.html" class="feature-card">
+        <span class="feature-card-tag tag-tax">Taxation & Law</span>
+        <h3 class="feature-card-title">Agricultural Tax Law Hub</h3>
+        <p class="feature-card-desc">
+          Exemption under Section 10(1), interactive Partial Integration Tax Calculator for salaried professionals, Capital Gains u/s 54B, and GST exemptions on farm produce.
+        </p>
+        <div class="feature-card-meta">
+          <span>Includes Live Calculator</span>
+          <span>Calculate Tax →</span>
+        </div>
+      </a>
+
+      <!-- Hub 3: Land Affordability -->
+      <a href="land.html" class="feature-card">
+        <span class="feature-card-tag tag-land">Cadastral Research</span>
+        <h3 class="feature-card-title">Land Markets & Due Diligence</h3>
+        <p class="feature-card-desc">
+          State-wise purchase rules for non-farmers, circle rates vs. market prices, Khatauni / Khasra verification, and the hidden capex of developing remote rural land.
+        </p>
+        <div class="feature-card-meta">
+          <span>10-Point Checklist</span>
+          <span>View Guidelines →</span>
+        </div>
+      </a>
+
+      <!-- Hub 4: Free Learning -->
+      <a href="courses.html" class="feature-card">
+        <span class="feature-card-tag tag-learn">Education & Training</span>
+        <h3 class="feature-card-title">Free Courses & Degrees</h3>
+        <p class="feature-card-desc">
+          100% free residential training at 731+ KVKs, subsidized MANAGE AC&ABC entrepreneurship programs with 44% capital subsidy, agMOOCs, and ICAR fellowships.
+        </p>
+        <div class="feature-card-meta">
+          <span>Government Funded</span>
+          <span>Browse Catalog →</span>
+        </div>
+      </a>
+
+      <!-- Hub 5: Owner Case Study -->
+      <a href="case-study.html" class="feature-card">
+        <span class="feature-card-tag tag-case">Authorized Case Study</span>
+        <h3 class="feature-card-title">Owner: Ghaziabad Land vs. TCS</h3>
+        <p class="feature-card-desc">
+          An explicitly authorized public decision analysis evaluating corporate IT employment at TCS Bhubaneswar (₹3.6 LPA) against agricultural enterprise in Western UP.
+        </p>
+        <div class="feature-card-meta">
+          <span>5 Strategic Pathways</span>
+          <span>Read Case Study →</span>
+        </div>
+      </a>
+
+      <!-- Hub 6: KrishiGrantha Master Book -->
+      <a href="book.html" class="feature-card">
+        <span class="feature-card-tag tag-book">Compiled Master Book</span>
+        <h3 class="feature-card-title">KrishiGrantha Compendium</h3>
+        <p class="feature-card-desc">
+          The single concatenated Markdown book compiled deterministically from canonical article sources for audio TTS reading and high-resolution PDF generation.
+        </p>
+        <div class="feature-card-meta">
+          <span>Live Manifest & Download</span>
+          <span>Access Book →</span>
+        </div>
+      </a>
+    </div>
+
+    <!-- 90 Parts Quick Navigation -->
+    <div class="section-header" style="margin-top: 2rem;">
+      <div>
+        <h2 class="section-title">Explore the 90 Parts</h2>
+        <p class="section-sub">Browse all agricultural domains from basic plant biology and soil health to global commodity trade and rural law.</p>
+      </div>
+      <a href="articles.html" style="font-weight: 700;">View All 1,080 Topics in Detail →</a>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; margin-bottom: 3rem;">
+      <a href="articles.html?part=1" class="stat-card" style="text-align: left; padding: 1rem;">
+        <span class="badge">Part 01–10</span>
+        <div style="font-weight: 700; margin-top: 0.4rem; color: var(--primary-deep);">Foundations, Soils, Water & Seeds</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.2rem;">Agronomy, C2 economics, soil science, irrigation</div>
+      </a>
+      <a href="articles.html?part=11" class="stat-card" style="text-align: left; padding: 1rem;">
+        <span class="badge">Part 11–24</span>
+        <div style="font-weight: 700; margin-top: 0.4rem; color: var(--primary-deep);">Crop Disciplines & Horticulture</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.2rem;">Cereals, millets, pulses, oilseeds, spices, nursery</div>
+      </a>
+      <a href="articles.html?part=25" class="stat-card" style="text-align: left; padding: 1rem;">
+        <span class="badge">Part 25–36</span>
+        <div style="font-weight: 700; margin-top: 0.4rem; color: var(--primary-deep);">Livestock, Dairy, Fish & Tech</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.2rem;">Dairy cattle, poultry, aquaculture, polyhouses</div>
+      </a>
+      <a href="articles.html?part=37" class="stat-card" style="text-align: left; padding: 1rem;">
+        <span class="badge">Part 37–53</span>
+        <div style="font-weight: 700; margin-top: 0.4rem; color: var(--primary-deep);">Supply Chains, Mandis & Policy</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.2rem;">Cold chains, APMC mandis, FPOs, agricultural law</div>
+      </a>
+      <a href="articles.html?part=54" class="stat-card" style="text-align: left; padding: 1rem;">
+        <span class="badge">Part 54–66</span>
+        <div style="font-weight: 700; margin-top: 0.4rem; color: var(--primary-deep);">State Profiles & District Hubs</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.2rem;">All 28 Indian States, UTs, and KVK extensions</div>
+      </a>
+      <a href="articles.html?part=67" class="stat-card" style="text-align: left; padding: 1rem;">
+        <span class="badge">Part 67–90</span>
+        <div style="font-weight: 700; margin-top: 0.4rem; color: var(--primary-deep);">Subsidies, Taxes & Case Study</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.2rem;">Full subsidy dossiers, farm taxation, Ghaziabad study</div>
+      </a>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-container">
+      <div class="footer-col">
+        <h4>KrishiAtlas</h4>
+        <p style="font-size: 0.88rem; color: #a3b4ac; line-height: 1.6;">
+          An open-access agricultural knowledge initiative synthesizing empirical agronomic science, legal due diligence, and rural financial economics.
+        </p>
+      </div>
+      <div class="footer-col">
+        <h4>Specialized Hubs</h4>
+        <ul class="footer-links">
+          <li><a href="subsidies.html">Agricultural Subsidies Register</a></li>
+          <li><a href="taxation.html">Agricultural Tax Law & Section 10(1)</a></li>
+          <li><a href="land.html">Farmland Market Research</a></li>
+          <li><a href="courses.html">Free Agricultural Courses Catalog</a></li>
+          <li><a href="case-study.html">Owner Case Study (TCS vs. Farming)</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Compendium & Tools</h4>
+        <ul class="footer-links">
+          <li><a href="articles.html">Master Catalog (1,080 Topics)</a></li>
+          <li><a href="book.html">KrishiGrantha Master Book</a></li>
+          <li><a href="glossary.html">Agricultural Glossary</a></li>
+          <li><a href="https://github.com/chirag127/KrishiAtlas" target="_blank" rel="noopener">GitHub Repository</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>© 2026 KrishiAtlas & KrishiGrantha. Open Agriscience Knowledge Base.</div>
+      <div>Designed for Audio TTS Accessibility & High-Resolution Reading.</div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

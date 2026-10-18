@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agricultural Glossary — KrishiAtlas</title>
+  <meta name="description" content="Plain-language, TTS-ready definitions for agronomic, legal, and farm economic terms in India.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-wrapper">
+        <div class="brand-icon">KA</div>
+        <div class="brand-text">
+          <span class="brand-title">KrishiAtlas</span>
+          <span class="brand-sub">The Agriculture Encyclopedia</span>
+        </div>
+      </a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html" class="nav-link">Home</a></li>
+          <li><a href="articles.html" class="nav-link">Articles</a></li>
+          <li><a href="subsidies.html" class="nav-link">Subsidies</a></li>
+          <li><a href="taxation.html" class="nav-link">Tax Law</a></li>
+          <li><a href="land.html" class="nav-link">Land Market</a></li>
+          <li><a href="courses.html" class="nav-link">Free Courses</a></li>
+          <li><a href="case-study.html" class="nav-link">Owner Case Study</a></li>
+          <li><a href="book.html" class="nav-link">KrishiGrantha Book</a></li>
+        </ul>
+      </nav>
+      <div class="nav-actions">
+        <button id="theme-toggle-btn" class="theme-toggle-btn">🌙 Dark</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <div class="section-header">
+      <div>
+        <h1 class="section-title">Master Agricultural Glossary</h1>
+        <p class="section-sub">Plain-language, text-to-speech optimized definitions of agronomic, financial, and legal terms used across KrishiAtlas.</p>
+      </div>
+    </div>
+
+    <!-- Search Input -->
+    <div style="margin-bottom: 2rem;">
+      <input type="text" id="glossary-search" class="calc-input" style="width: 100%; max-width: 500px; padding: 0.8rem 1.2rem;" placeholder="Search terms (e.g. C2 Cost, Batai, Khasra, PHI)...">
+    </div>
+
+    <!-- Glossary Terms Grid -->
+    <div id="glossary-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1.5rem;">
+      <!-- Populated dynamically or inline -->
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-bottom">
+      <div>© 2026 KrishiAtlas & KrishiGrantha. Open Agriscience Knowledge Base.</div>
+      <div>Plain-Language Agricultural Glossary</div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+  <script>
+    async function loadGlossary() {
+      const grid = document.getElementById('glossary-grid');
+      try {
+        const res = await fetch('search_index.json');
+        if (res.ok) {
+          const items = await res.json();
+          const terms = items.filter(i => i.type === 'glossary');
+
+          function render(filtered) {
+            if (filtered.length === 0) {
+              grid.innerHTML = '<div style="color: var(--text-muted); padding: 2rem;">No matching terms found.</div>';
+              return;
+            }
+            grid.innerHTML = filtered.map(t => `
+              <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+                <h3 style="color: var(--primary-deep); font-size: 1.2rem; margin-bottom: 0.6rem;">${t.title}</h3>
+                <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6; margin: 0;">${t.snippet}</p>
+              </div>
+            `).join('');
+          }
+
+          render(terms);
+
+          document.getElementById('glossary-search').addEventListener('input', (e) => {
+            const q = e.target.value.toLowerCase().trim();
+            const filtered = terms.filter(t => t.title.toLowerCase().includes(q) || t.keywords.includes(q));
+            render(filtered);
+          });
+        }
+      } catch (e) {
+        console.error("Glossary error:", e);
+      }
+    }
+    loadGlossary();
+  </script>
+</body>
+</html>

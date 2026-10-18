@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-10-18T22:47:00+05:30",
+  "canonical_concepts": {
+    "cacp-cost-hierarchy": {
+      "canonical_article_id": "KA-027",
+      "canonical_title": "Full Cost of Cultivation and the Value of Unpaid Labour",
+      "related_article_ids": ["KA-025", "KA-026", "KA-028", "KA-029", "KA-031"],
+      "guidance": "Detailed breakdowns of A1, A2, A2+FL, B1, B2, C1, and C2 belong in KA-027. Other articles should cross-link rather than restate full formulas."
+    },
+    "partial-integration-tax": {
+      "canonical_article_id": "KA-794",
+      "canonical_title": "Agricultural Income Under Section 10(1) and the Partial Integration Scheme",
+      "related_article_ids": ["KA-793", "KA-795", "KA-796", "KA-1070"],
+      "guidance": "Detailed 4-step math for Section 10(1) integration belongs in KA-794. Cross-reference in case studies."
+    },
+    "land-due-diligence-checklist": {
+      "canonical_article_id": "KA-052",
+      "canonical_title": "Land Title Due Diligence, Enquiries, Encumbrances and Purchase Steps",
+      "related_article_ids": ["KA-049", "KA-050", "KA-051", "KA-877", "KA-1071"],
+      "guidance": "The 10-point cadastral and revenue court due diligence process belongs in KA-052."
+    },
+    "owner-ghaziabad-case-analysis": {
+      "canonical_article_id": "KA-1069",
+      "canonical_title": "Baseline Assessment: Owner Land, Employment, Capital and Stated Objectives",
+      "related_article_ids": ["KA-1070", "KA-1071", "KA-1072", "KA-1073", "KA-1074", "KA-1075", "KA-1076", "KA-1077", "KA-1078", "KA-1079", "KA-1080"],
+      "guidance": "Owner context baseline is documented in content/case-studies/owner-agriculture-vs-tcs.md and articulated across Part 90."
+    }
+  }
+}

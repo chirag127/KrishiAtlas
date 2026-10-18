@@ -1,0 +1,86 @@
+{
+  "project": "KrishiAtlas & KrishiGrantha",
+  "version": "1.0.0",
+  "last_updated": "2026-10-19T00:05:00+05:30",
+  "total_catalog_articles": 1080,
+  "completed_articles": 36,
+  "completed_parts": 3,
+  "master_manuscript_words": 46474,
+  "milestones": [
+    {
+      "id": "M01",
+      "name": "Project Foundations & Authoritative Registers",
+      "status": "completed",
+      "tasks": [
+        {"id": "T01-01", "name": "Parse catalog and inventory", "status": "completed"},
+        {"id": "T01-02", "name": "Generate ARTICLE_CATALOG.md", "status": "completed"},
+        {"id": "T01-03", "name": "Create DECISIONS.md and AGENTS.md", "status": "completed"},
+        {"id": "T01-04", "name": "Create SOURCE_REGISTRY.md", "status": "completed"},
+        {"id": "T01-05", "name": "Create SUBSIDY_AND_BENEFIT_REGISTER.md", "status": "completed"},
+        {"id": "T01-06", "name": "Create TAX_LAW_REGISTER.md", "status": "completed"},
+        {"id": "T01-07", "name": "Create LEARNING_OPPORTUNITY_REGISTER.md", "status": "completed"},
+        {"id": "T01-08", "name": "Create LAND_MARKET_RESEARCH.md", "status": "completed"},
+        {"id": "T01-09", "name": "Create PROFITABILITY_EVIDENCE_REGISTER.md", "status": "completed"},
+        {"id": "T01-10", "name": "Create STATE_AND_DISTRICT_COVERAGE.md", "status": "completed"},
+        {"id": "T01-11", "name": "Create GLOSSARY.md & METHODS_AND_LIMITATIONS.md", "status": "completed"},
+        {"id": "T01-12", "name": "Author owner-agriculture-vs-tcs.md case study", "status": "completed"}
+      ]
+    },
+    {
+      "id": "M02",
+      "name": "Validation Scripts & Continuous Book Generator",
+      "status": "completed",
+      "tasks": [
+        {"id": "T02-01", "name": "validate_content.py", "status": "completed"},
+        {"id": "T02-02", "name": "check_duplicates.py", "status": "completed"},
+        {"id": "T02-03", "name": "build_book.py", "status": "completed"},
+        {"id": "T02-04", "name": "test_book.py", "status": "completed"},
+        {"id": "T02-05", "name": "privacy_audit.py", "status": "completed"},
+        {"id": "T02-06", "name": "check_coverage.py", "status": "completed"},
+        {"id": "T02-07", "name": "check_links.py", "status": "completed"}
+      ]
+    },
+    {
+      "id": "M03",
+      "name": "Static Website Construction & UI Components",
+      "status": "completed",
+      "tasks": [
+        {"id": "T03-01", "name": "Web application setup & responsive agriscience theme", "status": "completed"},
+        {"id": "T03-02", "name": "Interactive TTS player & search indexing", "status": "completed"},
+        {"id": "T03-03", "name": "Register explorers (Subsidies, Taxes, Land, Courses, Case Study)", "status": "completed"},
+        {"id": "T03-04", "name": "Section 10(1) Partial Integration Calculator", "status": "completed"}
+      ]
+    },
+    {
+      "id": "M04",
+      "name": "Continuous Article Drafting and Verification",
+      "status": "in_progress",
+      "completed_sub_parts": [
+        {
+          "part": 1,
+          "title": "Agriculture Foundations and Systems",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
+          "part": 2,
+          "title": "Agricultural History, Geography and Civilizations",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
+          "part": 90,
+          "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
+          "articles_completed": 12,
+          "status": "completed"
+        }
+      ],
+      "active_part": {
+        "part": 3,
+        "title": "Farm Economics and Profitability",
+        "target_articles": 12,
+        "next_article": "KA-025"
+      }
+    }
+  ]
+}

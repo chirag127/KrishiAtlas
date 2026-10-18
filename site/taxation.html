@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agricultural Taxation Hub & Section 10(1) Calculator — KrishiAtlas</title>
+  <meta name="description" content="Master guide to Indian agricultural taxation, Section 10(1), Partial Integration math, Capital Gains u/s 54B, and GST rules.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-wrapper">
+        <div class="brand-icon">KA</div>
+        <div class="brand-text">
+          <span class="brand-title">KrishiAtlas</span>
+          <span class="brand-sub">The Agriculture Encyclopedia</span>
+        </div>
+      </a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html" class="nav-link">Home</a></li>
+          <li><a href="articles.html" class="nav-link">Articles</a></li>
+          <li><a href="subsidies.html" class="nav-link">Subsidies</a></li>
+          <li><a href="taxation.html" class="nav-link active">Tax Law</a></li>
+          <li><a href="land.html" class="nav-link">Land Market</a></li>
+          <li><a href="courses.html" class="nav-link">Free Courses</a></li>
+          <li><a href="case-study.html" class="nav-link">Owner Case Study</a></li>
+          <li><a href="book.html" class="nav-link">KrishiGrantha Book</a></li>
+        </ul>
+      </nav>
+      <div class="nav-actions">
+        <button id="theme-toggle-btn" class="theme-toggle-btn">🌙 Dark</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <div class="section-header">
+      <div>
+        <h1 class="section-title">Agricultural Taxation & Legal Compliance Hub</h1>
+        <p class="section-sub">A definitive statutory analysis of Section 10(1), Section 2(1A), Capital Gains on rural vs. urban land, GST exemptions, and the Partial Integration Scheme.</p>
+      </div>
+    </div>
+
+    <!-- Interactive Tax Calculator -->
+    <div class="calculator-panel">
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1.2rem; border-bottom: 1px solid var(--border-medium); padding-bottom: 0.6rem;">
+        <h3 style="font-size: 1.3rem; color: var(--primary-deep);">Interactive Section 10(1) Partial Integration Calculator</h3>
+        <span class="badge" style="background: #ecfdf5; color: #047857;">AY 2026-27 Compliant</span>
+      </div>
+      <p style="font-size: 0.92rem; color: var(--text-muted); margin-bottom: 1.5rem;">
+        Under Indian tax law, agricultural income is exempt from Central income tax, but if net farm income exceeds ₹5,000 and taxable non-agricultural salary exceeds ₹3,00,000, the <strong>Partial Integration Scheme</strong> indirectly increases the tax slab on your non-agricultural income. Use this tool to compute your exact legal liability.
+      </p>
+
+      <div class="calc-grid">
+        <div class="input-group">
+          <label class="input-label" for="tax-ctc">Annual Non-Agri CTC / Salary (₹):</label>
+          <input type="number" id="tax-ctc" class="calc-input" value="360000" step="10000">
+          <small style="color: var(--text-muted); font-size: 0.78rem;">e.g., TCS entry salary = ₹3,60,000</small>
+        </div>
+
+        <div class="input-group">
+          <label class="input-label" for="tax-farm">Annual Net Agricultural Income (₹):</label>
+          <input type="number" id="tax-farm" class="calc-input" value="150000" step="10000">
+          <small style="color: var(--text-muted); font-size: 0.78rem;">e.g., Cash lease rent (Theka) or crop profit</small>
+        </div>
+
+        <div class="input-group">
+          <label class="input-label" for="tax-regime">Tax Regime:</label>
+          <select id="tax-regime" class="calc-input">
+            <option value="new" selected>New Tax Regime (Section 115BAC — Default)</option>
+          </select>
+          <small style="color: var(--text-muted); font-size: 0.78rem;">Includes ₹75,000 standard deduction</small>
+        </div>
+      </div>
+
+      <button id="tax-calc-btn" class="tts-btn" style="padding: 0.7rem 1.4rem; font-size: 0.95rem;">Compute Legal Tax Liability →</button>
+
+      <div id="tax-calc-results" class="calc-result-box" style="margin-top: 1.5rem;">
+        <!-- Filled by app.js -->
+      </div>
+    </div>
+
+    <!-- Core Statutory Rules Grid -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.5rem; margin-top: 3rem;">
+      <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+        <h3 style="color: var(--primary-deep); margin-bottom: 0.6rem;">Section 2(1A) Definition</h3>
+        <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6;">
+          Agricultural income requires basic soil operations (tilling, sowing, planting). Rent derived from agricultural land (Theka) is 100% agricultural income. However, commercial poultry, dairy, hydroponics, and machinery hiring are classified as taxable business income under Section 28.
+        </p>
+      </div>
+
+      <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+        <h3 style="color: var(--primary-deep); margin-bottom: 0.6rem;">Capital Gains & Land Transfer</h3>
+        <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6;">
+          Sale of <strong>Rural Agricultural Land</strong> (outside municipal limits and specified 2/6/8 km aerial boundaries) attracts <strong>ZERO capital gains tax</strong> because it is excluded from Section 2(14)(iii). Urban agricultural land transfers can claim capital gains exemption under Section 54B if reinvested in agricultural land within 2 years.
+        </p>
+      </div>
+
+      <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+        <h3 style="color: var(--primary-deep); margin-bottom: 0.6rem;">GST on Farm Operations</h3>
+        <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6;">
+          Fresh unprocessed crops (cereals, fruits, vegetables, green tea, raw sugarcane) are taxed at <strong>0% GST (Exempt)</strong>. Intermediate agricultural services (cultivation, harvesting, threshing, storage) are also 100% exempt under Notification No. 12/2017-Central Tax. Fertilizers carry 5% GST; tractors and drip irrigation systems carry 12% GST.
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-bottom">
+      <div>© 2026 KrishiAtlas & KrishiGrantha. Open Agriscience Knowledge Base.</div>
+      <div>Statutory Taxation Reference • Income-tax Act, 1961</div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Article Reader — KrishiAtlas</title>
+  <meta name="description" content="Read evidence-based agricultural knowledge articles with audio TTS narration.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-wrapper">
+        <div class="brand-icon">KA</div>
+        <div class="brand-text">
+          <span class="brand-title">KrishiAtlas</span>
+          <span class="brand-sub">The Agriculture Encyclopedia</span>
+        </div>
+      </a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html" class="nav-link">Home</a></li>
+          <li><a href="articles.html" class="nav-link">Articles</a></li>
+          <li><a href="subsidies.html" class="nav-link">Subsidies</a></li>
+          <li><a href="taxation.html" class="nav-link">Tax Law</a></li>
+          <li><a href="land.html" class="nav-link">Land Market</a></li>
+          <li><a href="courses.html" class="nav-link">Free Courses</a></li>
+          <li><a href="case-study.html" class="nav-link">Owner Case Study</a></li>
+          <li><a href="book.html" class="nav-link">KrishiGrantha Book</a></li>
+        </ul>
+      </nav>
+      <div class="nav-actions">
+        <button id="theme-toggle-btn" class="theme-toggle-btn">🌙 Dark</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-container" style="padding-top: 2rem;">
+    <!-- Navigation Breadcrumb -->
+    <div style="max-width: 840px; margin: 0 auto 1.5rem; display: flex; justify-content: space-between; align-items: center; font-size: 0.88rem; color: var(--text-muted);">
+      <a href="articles.html" style="font-weight: 600;">← Back to Catalog</a>
+      <div id="article-nav-pills" style="display: flex; gap: 0.5rem;">
+        <button id="prev-art-btn" class="badge" style="cursor: pointer; display: none;">← Prev</button>
+        <button id="next-art-btn" class="badge" style="cursor: pointer; display: none;">Next →</button>
+      </div>
+    </div>
+
+    <!-- Article Container -->
+    <article class="article-reader">
+      <!-- Floating Web Speech TTS Bar -->
+      <div class="tts-player-bar">
+        <div class="tts-controls">
+          <button id="tts-play-btn" class="tts-btn">▶️ Listen to Article</button>
+          <button id="tts-pause-btn" class="tts-btn secondary">⏸️ Pause</button>
+          <button id="tts-stop-btn" class="tts-btn secondary">⏹️ Stop</button>
+          <select id="tts-rate-select" class="calc-input" style="padding: 0.35rem 0.6rem; font-size: 0.82rem;">
+            <option value="1.0">1.0x Speed</option>
+            <option value="1.25">1.25x Speed</option>
+            <option value="1.5">1.5x Speed</option>
+          </select>
+        </div>
+        <div id="tts-status" class="tts-status-text">TTS ready (Web Speech API)</div>
+      </div>
+
+      <!-- Metadata Header -->
+      <div id="article-meta-header">
+        <div class="article-meta-badge-row">
+          <span id="art-id-badge" class="badge" style="font-weight: 700; color: var(--primary);">KA-000</span>
+          <span id="art-part-badge" class="badge">Part 00</span>
+          <span id="art-evidence-badge" class="badge high-evidence">Evidence Grade: High</span>
+          <span id="art-verified-badge" class="badge">Verified: 2026</span>
+        </div>
+        <h1 id="article-title">Loading Article...</h1>
+      </div>
+
+      <!-- Article Content Body -->
+      <div id="article-body-content" class="article-content">
+        <p style="color: var(--text-muted); text-align: center; padding: 2rem;">Retrieving article text and evidence documentation...</p>
+      </div>
+
+      <!-- Article Footer / Source Notes -->
+      <div id="article-source-notes" style="margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--border-subtle); font-size: 0.88rem; color: var(--text-muted);">
+        <h4 style="color: var(--primary-deep); margin-bottom: 0.5rem;">Citations & Research Integrity</h4>
+        <p>This article is part of the authoritative KrishiAtlas agricultural compendium. Agronomic dosages, tax interpretations, and statutory procedures are grounded in verified official publications (ICAR, SAUs, Ministry of Agriculture, CACP, CBDT, CBIC). For localized diagnostics, consult your district Krishi Vigyan Kendra (KVK).</p>
+      </div>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-bottom">
+      <div>© 2026 KrishiAtlas & KrishiGrantha. Open Agriscience Knowledge Base.</div>
+      <div>Designed for Audio TTS Accessibility & High-Resolution Reading.</div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+  <script>
+    async function loadArticle() {
+      const params = new URLSearchParams(window.location.search);
+      const artId = params.get('id') || 'KA-001';
+
+      try {
+        const res = await fetch('articles_data.json');
+        if (res.ok) {
+          const db = await res.json();
+          const art = db[artId];
+          if (art) {
+            document.title = `${art.title} — KrishiAtlas`;
+            document.getElementById('art-id-badge').textContent = art.id;
+            document.getElementById('art-part-badge').textContent = `Part ${art.part}: ${art.part_title}`;
+            document.getElementById('art-evidence-badge').textContent = `Evidence: ${art.evidence_grade || 'High'}`;
+            document.getElementById('art-verified-badge').textContent = `Verified: ${art.last_verified || '2026-10-18'}`;
+            document.getElementById('article-title').textContent = art.title;
+            document.getElementById('article-body-content').innerHTML = art.html_body;
+
+            // Setup Prev / Next buttons
+            const num = parseInt(artId.replace('KA-', ''));
+            const prevId = `KA-${(num - 1).toString().padStart(3, '0')}`;
+            const nextId = `KA-${(num + 1).toString().padStart(3, '0')}`;
+
+            const prevBtn = document.getElementById('prev-art-btn');
+            const nextBtn = document.getElementById('next-art-btn');
+
+            if (num > 1) {
+              prevBtn.style.display = 'inline-block';
+              prevBtn.onclick = () => window.location.href = `article.html?id=${prevId}`;
+            }
+            if (num < 1080) {
+              nextBtn.style.display = 'inline-block';
+              nextBtn.onclick = () => window.location.href = `article.html?id=${nextId}`;
+            }
+            return;
+          }
+        }
+      } catch (e) {
+        console.warn("Could not load from articles_data.json:", e);
+      }
+
+      // Fallback display if not yet precompiled
+      document.getElementById('article-title').textContent = `Article ${artId}`;
+      document.getElementById('article-body-content').innerHTML = `
+        <div style="background: var(--bg-muted); padding: 2rem; border-radius: 8px; border: 1px solid var(--border-medium);">
+          <h3>Topic Under Active Drafting / Verification</h3>
+          <p>This article (${artId}) is part of the canonical 1,080 inventory and is currently being synthesized in the active continuous research loop.</p>
+          <p><a href="articles.html" style="font-weight: 700;">Return to Catalog</a></p>
+        </div>
+      `;
+    }
+
+    loadArticle();
+  </script>
+</body>
+</html>

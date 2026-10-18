@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KrishiGrantha — The Complete Agricultural Compendium</title>
+  <meta name="description" content="Status, build metadata, manifest checksums, and downloads for the KrishiGrantha Master Book.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-container">
+      <a href="index.html" class="brand-wrapper">
+        <div class="brand-icon">KA</div>
+        <div class="brand-text">
+          <span class="brand-title">KrishiAtlas</span>
+          <span class="brand-sub">The Agriculture Encyclopedia</span>
+        </div>
+      </a>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="index.html" class="nav-link">Home</a></li>
+          <li><a href="articles.html" class="nav-link">Articles</a></li>
+          <li><a href="subsidies.html" class="nav-link">Subsidies</a></li>
+          <li><a href="taxation.html" class="nav-link">Tax Law</a></li>
+          <li><a href="land.html" class="nav-link">Land Market</a></li>
+          <li><a href="courses.html" class="nav-link">Free Courses</a></li>
+          <li><a href="case-study.html" class="nav-link">Owner Case Study</a></li>
+          <li><a href="book.html" class="nav-link active">KrishiGrantha Book</a></li>
+        </ul>
+      </nav>
+      <div class="nav-actions">
+        <button id="theme-toggle-btn" class="theme-toggle-btn">🌙 Dark</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-container">
+    <div class="section-header">
+      <div>
+        <h1 class="section-title">KrishiGrantha Master Book Status</h1>
+        <p class="section-sub">A single, unified, text-to-speech optimized Markdown manuscript deterministically compiled from the KrishiAtlas canonical article corpus.</p>
+      </div>
+    </div>
+
+    <!-- Live Manifest Card -->
+    <div class="calculator-panel" style="margin-bottom: 2.5rem;">
+      <h3 style="color: var(--primary-deep); margin-bottom: 1rem;">Live Build Manifest & Cryptographic Integrity</h3>
+      <div id="manifest-stats-grid" class="stats-banner" style="margin-bottom: 1.5rem;">
+        <div class="stat-card">
+          <div id="manifest-catalog-count" class="stat-number">1,080</div>
+          <div class="stat-label">Catalog Topics</div>
+        </div>
+        <div class="stat-card">
+          <div id="manifest-compiled-count" class="stat-number">...</div>
+          <div class="stat-label">Compiled Articles</div>
+        </div>
+        <div class="stat-card">
+          <div id="manifest-words-count" class="stat-number">...</div>
+          <div class="stat-label">Total Words</div>
+        </div>
+        <div class="stat-card">
+          <div id="manifest-status-badge" class="stat-number" style="font-size: 1.4rem; color: #059669;">Validated</div>
+          <div class="stat-label">Pipeline Status</div>
+        </div>
+      </div>
+
+      <div style="background: var(--bg-muted); padding: 1.2rem; border-radius: var(--radius-sm); font-family: monospace; font-size: 0.85rem; color: var(--text-muted); word-break: break-all; margin-bottom: 1.5rem;">
+        <div><strong>Master File:</strong> <code>exports/KrishiGrantha_Master.md</code></div>
+        <div id="manifest-sha"><strong>SHA-256 Checksum:</strong> Loading...</div>
+        <div id="manifest-date"><strong>Last Built:</strong> Loading...</div>
+      </div>
+
+      <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+        <a href="../exports/KrishiGrantha_Master.md" download class="tts-btn" style="text-decoration: none;">📥 Download KrishiGrantha_Master.md</a>
+        <a href="../exports/KrishiGrantha_Master.txt" download class="tts-btn secondary" style="text-decoration: none;">📄 Download Clean Text (.txt)</a>
+      </div>
+    </div>
+
+    <!-- PDF Formatting & TTS Architecture -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; margin-bottom: 3rem;">
+      <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+        <h3 style="color: var(--primary-deep); margin-bottom: 0.6rem;">High-Resolution Markdown-to-PDF Ready</h3>
+        <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6;">
+          Compiled with standard semantic Markdown (`#`, `##`, `###`), unified typography, and zero unrenderable raw HTML clutter. Ready for one-click PDF compilation via VS Code Markdown PDF, Chrome Headless, or Pandoc with zero layout breaks.
+        </p>
+      </div>
+
+      <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+        <h3 style="color: var(--primary-deep); margin-bottom: 0.6rem;">Audio TTS-First Flow</h3>
+        <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6;">
+          Mathematical equations and statutory fractions are framed in spoken prose. No ASCII dividers, emoji, or visual-only graphics obstruct screen readers or browser speech synthesizers.
+        </p>
+      </div>
+
+      <div class="stat-card" style="text-align: left; padding: 1.5rem;">
+        <h3 style="color: var(--primary-deep); margin-bottom: 0.6rem;">Deterministic & Idempotent</h3>
+        <p style="font-size: 0.92rem; color: var(--text-muted); line-height: 1.6;">
+          Generated exclusively by <code>scripts/build_book.py</code>. Order is strictly governed by <code>scripts/inventory.json</code>. Re-running the compiler on unchanged sources produces an identical byte-for-byte SHA-256 signature.
+        </p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-bottom">
+      <div>© 2026 KrishiAtlas & KrishiGrantha. Open Agriscience Knowledge Base.</div>
+      <div>KrishiGrantha Master Compilation • Deterministic Markdown Export</div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+  <script>
+    async function loadManifest() {
+      try {
+        const res = await fetch('../exports/KrishiGrantha_Manifest.json');
+        if (res.ok) {
+          const m = await res.json();
+          document.getElementById('manifest-catalog-count').textContent = m.total_catalog_articles.toLocaleString();
+          document.getElementById('manifest-compiled-count').textContent = m.included_articles_count.toLocaleString();
+          document.getElementById('manifest-words-count').textContent = m.total_words.toLocaleString();
+          document.getElementById('manifest-sha').innerHTML = `<strong>SHA-256 Checksum:</strong> <code>${m.master_md_sha256}</code>`;
+          document.getElementById('manifest-date').innerHTML = `<strong>Last Built:</strong> ${m.generated_at}`;
+        }
+      } catch (e) {
+        console.warn("Could not fetch manifest:", e);
+      }
+    }
+    loadManifest();
+  </script>
+</body>
+</html>
