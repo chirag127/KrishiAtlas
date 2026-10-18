@@ -133,7 +133,20 @@
   - `KA-142` — Cereal Straw, Residue Value and Competing Uses (Published)
   - `KA-143` — Cereal Storage, Mycotoxin Risks and Grain Quality (Published)
   - `KA-144` — Cereal Farm Economics Under Different Market Channels (Published)
+- **Part 13: Millets and Climate-Resilient Small Grains (12/12 Complete)**:
+  - `KA-145` — Pearl Millet: Soil Fit, Climate Fit and Production Economics (Published)
+  - `KA-146` — Finger Millet: Production Systems and Nutritional Uses (Published)
+  - `KA-147` — Sorghum: Grain, Fodder and Dual-Purpose Management (Published)
+  - `KA-148` — Foxtail, Proso, Kodo and Little Millet Production Systems (Published)
+  - `KA-149` — Barnyard Millet and Other Regionally Important Small Millets (Published)
+  - `KA-150` — Millet Seed Quality, Sowing and Stand Establishment (Published)
+  - `KA-151` — Millet Water Needs, Drought Response and Yield Stability (Published)
+  - `KA-152` — Millet Weeds, Pests, Diseases and Integrated Management (Published)
+  - `KA-153` — Harvesting, Threshing, Dehulling and Processing Requirements (Published)
+  - `KA-154` — Millet Market Demand, Procurement and Value Addition (Published)
+  - `KA-155` — Nutritional Claims, Food Safety and Consumer Acceptance (Published)
+  - `KA-156` — When Millets Are Agronomically Suitable but Commercially Difficult (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 156 articles + master case study = **202,890 words** (1.53 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 13 (`KA-145` through `KA-156`: Millets and Climate-Resilient Small Grains).
+- **Master Book Progress:** 168 articles + master case study = **208,261 words** (1.63 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 14 (`KA-157` through `KA-168`: Pulses and Grain Legumes).

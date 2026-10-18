@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T20:46:33.398805+00:00",
+  "generated_at": "2026-10-18T20:57:19.307141+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 156,
-  "total_words": 194076,
+  "included_articles_count": 168,
+  "total_words": 208261,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "f13a9cecee1cf8b1aba30271c8754f246c2d72749ff5323056cf4bb4937f405a",
+  "master_md_sha256": "a5c7f13a35911aca61c1ce1592bf5d8367ec3d21a4b3084137c194043c282aa3",
   "articles": [
     {
       "id": "KA-001",
@@ -1596,132 +1596,132 @@
       "title": "Pearl Millet: Soil Fit, Climate Fit and Production Economics",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-145-pearl-millet-soil-fit-climate-fit-and-production-economics.md",
+      "sha256": "d1f2b6a22196000c43f6189da416acba1270a3e33dbde6087557bac4b93e8e23",
+      "word_count": 1377,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-146",
       "title": "Finger Millet: Production Systems and Nutritional Uses",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-146-finger-millet-production-systems-and-nutritional-uses.md",
+      "sha256": "ee75b2f0dd00673711f0657307dd96a2fb58b867078aa9861cd49dd579e44781",
+      "word_count": 1164,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-147",
       "title": "Sorghum: Grain, Fodder and Dual-Purpose Management",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-147-sorghum-grain-fodder-and-dual-purpose-management.md",
+      "sha256": "50e0d296a0a0e761a6e30a15da00b3543027641d0d4a2718636c39331c1b95a0",
+      "word_count": 1150,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-148",
       "title": "Foxtail, Proso, Kodo and Little Millet Production Systems",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-148-foxtail-proso-kodo-and-little-millet-production-systems.md",
+      "sha256": "6068dc2ce0e7ee1646e37d31323b768087ce9b87ee82b63f94779d7c043e9dc5",
+      "word_count": 1242,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-149",
       "title": "Barnyard Millet and Other Regionally Important Small Millets",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-149-barnyard-millet-and-other-regionally-important-small-millets.md",
+      "sha256": "0bf3d4042c3f82e39035f193ed275b22d687bff595f8c4d0e407988f20a1bf90",
+      "word_count": 1113,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-150",
       "title": "Millet Seed Quality, Sowing and Stand Establishment",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-150-millet-seed-quality-sowing-and-stand-establishment.md",
+      "sha256": "776c45c390965b6d02704459eab390fb2fca5220e27f964a22404ac4b93f43fd",
+      "word_count": 1351,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-151",
       "title": "Millet Water Needs, Drought Response and Yield Stability",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-151-millet-water-needs-drought-response-and-yield-stability.md",
+      "sha256": "01907db04edeee9685e294094ac621a46f707656034ed27af26f03018081147a",
+      "word_count": 1172,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-152",
       "title": "Millet Weeds, Pests, Diseases and Integrated Management",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-152-millet-weeds-pests-diseases-and-integrated-management.md",
+      "sha256": "4cf25b9b17fc3dacbf80d34c4ba3905a297ada2ebcd043c6297711ccd34ebd3a",
+      "word_count": 1074,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-153",
       "title": "Harvesting, Threshing, Dehulling and Processing Requirements",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-153-harvesting-threshing-dehulling-and-processing-requirements.md",
+      "sha256": "8cb401c4b8ce5e03036856c6cd3522611455ed85d11c19fe9eb5e5838226253a",
+      "word_count": 1185,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-154",
       "title": "Millet Market Demand, Procurement and Value Addition",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-154-millet-market-demand-procurement-and-value-addition.md",
+      "sha256": "730ab42010e090da6b3c04f4a5895b6dbfa816743f3e57dd02b7dbc88ba2792a",
+      "word_count": 956,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-155",
       "title": "Nutritional Claims, Food Safety and Consumer Acceptance",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-155-nutritional-claims-food-safety-and-consumer-acceptance.md",
+      "sha256": "beff8006ca44bc119ad072452c270e7cdda0f58842801d5e3ad2e41efb88a70c",
+      "word_count": 1196,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-156",
       "title": "When Millets Are Agronomically Suitable but Commercially Difficult",
       "part": 13,
       "part_title": "Millets and Climate-Resilient Small Grains",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-156-when-millets-are-agronomically-suitable-but-commercially-difficult.md",
+      "sha256": "a0a11f593ade11bfdd03c8943004294207615838b59b18172ec4067552411d56",
+      "word_count": 1205,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-157",
