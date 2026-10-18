@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T19:13:02.763837+00:00",
+  "generated_at": "2026-10-18T19:26:30.523513+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 60,
-  "total_words": 75891,
+  "included_articles_count": 72,
+  "total_words": 89989,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "1c0adf8304908138a2ff563f907957a4445ff30b542c1af21b0122e0da7e7ee2",
+  "master_md_sha256": "770ea149b7c01ffc065a55778a7a109a0dffffacc031a2f4efced14be20e5c0b",
   "articles": [
     {
       "id": "KA-001",
@@ -540,132 +540,132 @@
       "title": "Land Area Units, Local Bigha Conversions and Survey Verification",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-049-land-area-units-local-bigha-conversions-and-survey-verification.md",
+      "sha256": "66aa427b03785b0c043199fcc73746a818b119250864d960950384de524a60d1",
+      "word_count": 1397,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-050",
       "title": "Fragmented Holdings, Field Shape and the Cost of Moving Between Parcels",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-050-fragmented-holdings-field-shape-and-the-cost-of-moving-between-parcels.md",
+      "sha256": "b00a72a801aceb31f7da73159faac42d9ed07c2b0a9c894e8a04d34c8fbbc658",
+      "word_count": 1132,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-051",
       "title": "Soil, Slope, Drainage, Flood Risk and Site Suitability",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-051-soil-slope-drainage-flood-risk-and-site-suitability.md",
+      "sha256": "fb8703d0704c758ab382de78047508867e149e1fa6e8a7b6b3c7804242c399e9",
+      "word_count": 1218,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-052",
       "title": "Road Access, Electricity, Markets, Labour and Transport Distance",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-052-road-access-electricity-markets-labour-and-transport-distance.md",
+      "sha256": "c8cb8d39c564653d45a93ce4b18699e7830396ac1e89d53708a2f09036319779",
+      "word_count": 1187,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-053",
       "title": "Water Rights, Irrigation Access and Groundwater Sustainability",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-053-water-rights-irrigation-access-and-groundwater-sustainability.md",
+      "sha256": "0c6290a86290ac238716dac91f2cc3a5b5897b05a3171f6809ac236366b648c8",
+      "word_count": 1202,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-054",
       "title": "Title, Mutation, Encumbrances, Co-Ownership and Boundary Disputes",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-054-title-mutation-encumbrances-co-ownership-and-boundary-disputes.md",
+      "sha256": "e2b3be118d880b43c94fe255f88e6fbed2982310152c4f288662d25fe34a7afd",
+      "word_count": 1100,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-055",
       "title": "Buying, Leasing, Renting and Sharecropping: Legal and Economic Differences",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-055-buying-leasing-renting-and-sharecropping-legal-and-economic-differences.md",
+      "sha256": "732ffaef2dd2faf03b0d28393c5900040e0359b1cd136d9e1fec578d046f5ae5",
+      "word_count": 1079,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-056",
       "title": "Lease Agreements, Possession, Tenancy and Exit Conditions",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-056-lease-agreements-possession-tenancy-and-exit-conditions.md",
+      "sha256": "e644e26be6bf402becc349ac959949ae4fce68e6b45db4bc456569097fa98f5d",
+      "word_count": 1108,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-057",
       "title": "Land Consolidation, Parcel Exchange and Cooperative Operations",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-057-land-consolidation-parcel-exchange-and-cooperative-operations.md",
+      "sha256": "ff9b6686e1546803832dd3e1f450d1df250c4aa579a9a90aeb09afdb1c4a634b",
+      "word_count": 1041,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-058",
       "title": "Soil Contamination, Salinity, Previous Land Use and Remediation",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-058-soil-contamination-salinity-previous-land-use-and-remediation.md",
+      "sha256": "b36a3a6220cd0bcb2facb1645931bdc6237105cc619a0979087e0a063cf74f28",
+      "word_count": 1229,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-059",
       "title": "Buying Farmland: Due Diligence, Transaction Costs and Legal Review",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-059-buying-farmland-due-diligence-transaction-costs-and-legal-review.md",
+      "sha256": "d47c702833bffb3b471448df7006e8f52a414a0f1df3aaf72a649c6d488e57db",
+      "word_count": 1239,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-060",
       "title": "When Not to Buy Farmland and When Leasing Is the Better Test",
       "part": 5,
       "part_title": "Land, Tenure, Parcel Structure and Site Selection",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-060-when-not-to-buy-farmland-and-when-leasing-is-the-better-test.md",
+      "sha256": "3b2fd3412f51f2a26288ceff01fbdf5efc3a4db707c1df8310743f54aa6852dc",
+      "word_count": 1166,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-061",
