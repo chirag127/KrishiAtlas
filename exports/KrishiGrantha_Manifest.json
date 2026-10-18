@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T19:26:30.523513+00:00",
+  "generated_at": "2026-10-18T19:41:17.054527+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 72,
-  "total_words": 89989,
+  "included_articles_count": 84,
+  "total_words": 105444,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "770ea149b7c01ffc065a55778a7a109a0dffffacc031a2f4efced14be20e5c0b",
+  "master_md_sha256": "0ed10fbc44ee199d7e2d495434ab1aedad9bbd8b13c4973b46738e450f130bad",
   "articles": [
     {
       "id": "KA-001",
@@ -672,132 +672,132 @@
       "title": "Soil Formation, Horizons and Soil Classification",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-061-soil-formation-horizons-and-soil-classification.md",
+      "sha256": "641c345e52dcaae88be32f4c308a8f7016fdb406f018dfb14192d483824f058c",
+      "word_count": 1308,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-062",
       "title": "Sand, Silt, Clay and Soil Texture Interpretation",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-062-sand-silt-clay-and-soil-texture-interpretation.md",
+      "sha256": "cb7afc2f923317b6e4eb918827a95d2b8d08d0e9070ee7e9bc5591a9fd74bc25",
+      "word_count": 1513,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-063",
       "title": "Soil Structure, Aggregates, Compaction and Pore Space",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-063-soil-structure-aggregates-compaction-and-pore-space.md",
+      "sha256": "ed3f3ef199bae155fd060d8444be13b3f7df224ab46ca6b669d428c1c1b4baaf",
+      "word_count": 1364,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-064",
       "title": "Soil Depth, Rooting Volume and Effective Crop-Zone Assessment",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-064-soil-depth-rooting-volume-and-effective-crop-zone-assessment.md",
+      "sha256": "242b9e8c62798e2e2dcae2d261e415c08e01af261439422ad11c5e81b573e3e3",
+      "word_count": 1131,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-065",
       "title": "Drainage, Waterlogging and Root Oxygen Stress",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-065-drainage-waterlogging-and-root-oxygen-stress.md",
+      "sha256": "d25a1ef163260e96a34208897d83acfe801ec7852c6ce2e8b0f4cf7d4fac1d53",
+      "word_count": 1151,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-066",
       "title": "Soil Organic Matter, Carbon and Biological Activity",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-066-soil-organic-matter-carbon-and-biological-activity.md",
+      "sha256": "4c097fd588c0ae01cd23a0effe55b1fc412c9ffeee36ac14555cf9b01f7ee72c",
+      "word_count": 1334,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-067",
       "title": "Soil Erosion by Water and Wind and How It Develops",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-067-soil-erosion-by-water-and-wind-and-how-it-develops.md",
+      "sha256": "db88c996205db02425d552802596ca674b04eb55d72ef76db923e4eb3e2bc821",
+      "word_count": 1269,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-068",
       "title": "Crusting, Hardpan, Compaction and Traffic Damage",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-068-crusting-hardpan-compaction-and-traffic-damage.md",
+      "sha256": "f5a0a3e53d5f2cae7d282c85c0e79c4e6b2d54d046c3ead30fab5851ac7ca46f",
+      "word_count": 1245,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-069",
       "title": "Saline, Sodic, Acidic and Calcareous Soils: Diagnosis and Management",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-069-saline-sodic-acidic-and-calcareous-soils-diagnosis-and-management.md",
+      "sha256": "f2f091ec87e65ca2cf2a66e95572d65aa04e9c1ee53a2d32e1468f4ec41e20b0",
+      "word_count": 1410,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-070",
       "title": "Soil Sampling Design, Laboratory Reports and Interpretation",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-070-soil-sampling-design-laboratory-reports-and-interpretation.md",
+      "sha256": "33eae1736d3b0ef73a280e5e5b28699a3c947839d93ffd4029f7603b7b02b71e",
+      "word_count": 1313,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-071",
       "title": "Soil Health Indicators and the Limits of a Single Test",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-071-soil-health-indicators-and-the-limits-of-a-single-test.md",
+      "sha256": "fa13a598d212e5fc72ea8ae3fe5f7bb9fae1ffb26ef97434553e06a32e2c65d7",
+      "word_count": 1268,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-072",
       "title": "Matching Crops to Soil Conditions Without Overgeneralizing",
       "part": 6,
       "part_title": "Soil Science and Soil Physical Health",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-072-matching-crops-to-soil-conditions-without-overgeneralizing.md",
+      "sha256": "617629ceb2b6ec45b12f62d3cfffe29352c8f85e710db1559a603b4d65202666",
+      "word_count": 1149,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-073",

@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T00:56:00+05:30",
+  "last_updated": "2026-10-19T01:11:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 72,
-  "completed_parts": 6,
-  "master_manuscript_words": 89989,
+  "completed_articles": 84,
+  "completed_parts": 7,
+  "master_manuscript_words": 105444,
   "milestones": [
     {
       "id": "M01",
@@ -87,6 +87,12 @@
           "status": "completed"
         },
         {
+          "part": 6,
+          "title": "Soil Science and Soil Physical Health",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -94,10 +100,10 @@
         }
       ],
       "active_part": {
-        "part": 6,
-        "title": "Soil Health, Soil Biology, Organic Matter and Composting",
+        "part": 7,
+        "title": "Soil Biology, Organic Matter and Composting",
         "target_articles": 12,
-        "next_article": "KA-061"
+        "next_article": "KA-073"
       }
     }
   ]
