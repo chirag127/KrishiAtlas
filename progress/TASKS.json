@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T00:05:00+05:30",
+  "last_updated": "2026-10-19T00:43:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 36,
-  "completed_parts": 3,
-  "master_manuscript_words": 46474,
+  "completed_articles": 60,
+  "completed_parts": 5,
+  "master_manuscript_words": 75891,
   "milestones": [
     {
       "id": "M01",
@@ -69,6 +69,18 @@
           "status": "completed"
         },
         {
+          "part": 3,
+          "title": "Farm Economics and Profitability",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
+          "part": 4,
+          "title": "Farm Business Planning and Enterprise Management",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -76,10 +88,10 @@
         }
       ],
       "active_part": {
-        "part": 3,
-        "title": "Farm Economics and Profitability",
+        "part": 5,
+        "title": "Land, Tenure, Parcel Structure and Site Selection",
         "target_articles": 12,
-        "next_article": "KA-025"
+        "next_article": "KA-049"
       }
     }
   ]

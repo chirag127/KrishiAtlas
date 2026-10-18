@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T18:50:43.550288+00:00",
+  "generated_at": "2026-10-18T19:13:02.763837+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 48,
-  "total_words": 61586,
+  "included_articles_count": 60,
+  "total_words": 75891,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "33d9fa3b2ebf8e067b18f390a5ed7814d0d0af7dbab9cf6677577531bb4683bf",
+  "master_md_sha256": "1c0adf8304908138a2ff563f907957a4445ff30b542c1af21b0122e0da7e7ee2",
   "articles": [
     {
       "id": "KA-001",
@@ -408,132 +408,132 @@
       "title": "Choosing a Farm Business Model Before Buying Inputs",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-037-choosing-a-farm-business-model-before-buying-inputs.md",
+      "sha256": "af03333e9a71148a0b26c02da9ab212eea08b4cd10841ace985e537e5523f863",
+      "word_count": 1200,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-038",
       "title": "Farm Enterprise Selection by Agroecology, Skills and Market Access",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-038-farm-enterprise-selection-by-agroecology-skills-and-market-access.md",
+      "sha256": "c5869387e7dda31420c8349e6d70e6f025def812346e0f683fb5d56df3466a38",
+      "word_count": 1246,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-039",
       "title": "Crop Planning Across Seasons, Rotations and Labour Bottlenecks",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-039-crop-planning-across-seasons-rotations-and-labour-bottlenecks.md",
+      "sha256": "9c1ffc6c4e49df8333fece1b8b83ad7809a2fc1b4dcf04d250990c358db290e6",
+      "word_count": 1291,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-040",
       "title": "Farm Records, Field Registers and Production Traceability",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-040-farm-records-field-registers-and-production-traceability.md",
+      "sha256": "8789d48e21eea531ea3bfda5c9c3f96b46d6d572c5428dcb660da597331afd6b",
+      "word_count": 1321,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-041",
       "title": "Inventory, Input Procurement and Supplier Quality Control",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-041-inventory-input-procurement-and-supplier-quality-control.md",
+      "sha256": "f9b398a13880a6dfac12895659369d8d9f2e42bf40c537f4f9b84f02e5e15bcf",
+      "word_count": 1443,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-042",
       "title": "Labour Planning, Supervision and Contractor Management",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-042-labour-planning-supervision-and-contractor-management.md",
+      "sha256": "2ac8b9f1fd12cdbfcc966c91d75352cf020e89d3638657c5825bef4908a78cc4",
+      "word_count": 1141,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-043",
       "title": "Farm Asset Registers, Repairs and Machinery Replacement",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-043-farm-asset-registers-repairs-and-machinery-replacement.md",
+      "sha256": "4fb5c38d4c019c0ed2a1f22bb9021a699434be1866a14eae8fb5d363006044c3",
+      "word_count": 1282,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-044",
       "title": "Farm Business Structure, Family Roles and Decision Rights",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-044-farm-business-structure-family-roles-and-decision-rights.md",
+      "sha256": "c8183779f940f5d7e29ef60efe563feeeec23856e5adf66d0d888421ff527930",
+      "word_count": 1081,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-045",
       "title": "Sales Planning, Buyer Discovery and Pre-Season Market Validation",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-045-sales-planning-buyer-discovery-and-pre-season-market-validation.md",
+      "sha256": "a8e3c11dd84155b539a8415c7c8d94f0d6c3ca565d9bf78a707257f7a835bebe",
+      "word_count": 1073,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-046",
       "title": "Working Capital, Credit Limits and Liquidity Management",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-046-working-capital-credit-limits-and-liquidity-management.md",
+      "sha256": "95e1297d7921c7559ec2f8cdaca1148df604dbd1bcb1223d95582b13480e3e39",
+      "word_count": 1046,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-047",
       "title": "Farm Business Failure Modes and Recovery Planning",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-047-farm-business-failure-modes-and-recovery-planning.md",
+      "sha256": "7d61bdbc1286b927bf9092da81c174605a3932ba5364e14c9e0eb85fbcf9d45e",
+      "word_count": 1195,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-048",
       "title": "Building a Farm Plan That Can Be Tested and Revised",
       "part": 4,
       "part_title": "Farm Business Planning and Enterprise Management",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-048-building-a-farm-plan-that-can-be-tested-and-revised.md",
+      "sha256": "b2d1562e6308c81199340f0dfa26e2819f91d4db78cf160ee697d0b2c8ef1b83",
+      "word_count": 986,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-049",
