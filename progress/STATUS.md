@@ -159,7 +159,20 @@
   - `KA-166` — Pulse Quality, Grading, Procurement and Buyer Requirements (Published)
   - `KA-167` — Pulse Residues, Soil Benefits and Whole-System Economics (Published)
   - `KA-168` — Why Pulses Can Be Profitable or Unprofitable Across Seasons (Published)
+- **Part 15: Oilseeds and Edible Oils (12/12 Complete)**:
+  - `KA-169` — Mustard and Rapeseed: Production and Pollination (Published)
+  - `KA-170` — Groundnut: Soil Preparation, Water and Harvest Maturity (Published)
+  - `KA-171` — Soybean Production, Inoculation and Weed Management (Published)
+  - `KA-172` — Sunflower: Plant Population, Head Development and Yield Risk (Published)
+  - `KA-173` — Sesame: Establishment, Harvest Losses and Shattering Risk (Published)
+  - `KA-174` — Linseed, Safflower and Other Oilseed Options (Published)
+  - `KA-175` — Castor: Contract Requirements, Toxicity and Market Risk (Published)
+  - `KA-176` — Oilseed Storage, Aflatoxin Risk and Moisture Control (Published)
+  - `KA-177` — Oil Content, Quality Grades and Processing Economics (Published)
+  - `KA-178` — Import Competition, Domestic Prices and Policy Effects (Published)
+  - `KA-179` — Oilseed Crop Rotation, Soil Health and Pest Breaks (Published)
+  - `KA-180` — Comparing Oilseed Gross Margins Without Treating Them as Guaranteed (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 180 articles + master case study = **223,418 words** (1.74 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 15 (`KA-169` through `KA-180`: Oilseeds and Edible Oils).
+- **Master Book Progress:** 192 articles + master case study = **238,250 words** (1.85 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 16 (`KA-181` through `KA-192`: Sugar, Fibre, Starch and Industrial Crops).

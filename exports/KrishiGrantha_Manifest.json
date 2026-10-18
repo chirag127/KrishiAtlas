@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T21:05:52.037931+00:00",
+  "generated_at": "2026-10-18T21:14:29.823932+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 180,
-  "total_words": 223418,
+  "included_articles_count": 192,
+  "total_words": 238250,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "940b32b7636124948855d13f8c2cedc308b756d584e84d940ddc785a145d5064",
+  "master_md_sha256": "82392086369e7e72043457069cd61db278224bd77a7703df55ac01c90ed79e28",
   "articles": [
     {
       "id": "KA-001",
@@ -1860,132 +1860,132 @@
       "title": "Mustard and Rapeseed: Production and Pollination",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-169-mustard-and-rapeseed-production-and-pollination.md",
+      "sha256": "7106f75ef72f366ef41d83bfba8ddf89a8fcf25c655b272b8d74cc391876d8ee",
+      "word_count": 1439,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-170",
       "title": "Groundnut: Soil Preparation, Water and Harvest Maturity",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-170-groundnut-soil-preparation-water-and-harvest-maturity.md",
+      "sha256": "2a35c5f913f3e0ac1e17204f7e0d37f83c60130100358c569fecc133425045a5",
+      "word_count": 1319,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-171",
       "title": "Soybean Production, Inoculation and Weed Management",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-171-soybean-production-inoculation-and-weed-management.md",
+      "sha256": "518c060fff12000fed2a8b42d8f14078106b812c542683cc2782a262640250e1",
+      "word_count": 1338,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-172",
       "title": "Sunflower: Plant Population, Head Development and Yield Risk",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-172-sunflower-plant-population-head-development-and-yield-risk.md",
+      "sha256": "5c6d97a7c0fcda8bbf5542af7f42de2ddf1f5c5ab6813d32ecaff0d0676c2a40",
+      "word_count": 1332,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-173",
       "title": "Sesame: Establishment, Harvest Losses and Shattering Risk",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-173-sesame-establishment-harvest-losses-and-shattering-risk.md",
+      "sha256": "a88eb8efcefaaaa182d33d69a72fed4b398c9052f199ad53a9df188f33273aa5",
+      "word_count": 1261,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-174",
       "title": "Linseed, Safflower and Other Oilseed Options",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-174-linseed-safflower-and-other-oilseed-options.md",
+      "sha256": "51151e51599710b5e8d14b641f78bc85f8dc7b68bf0a58fafd4196f78e99dc32",
+      "word_count": 1201,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-175",
       "title": "Castor: Contract Requirements, Toxicity and Market Risk",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-175-castor-contract-requirements-toxicity-and-market-risk.md",
+      "sha256": "ca014485a30c05dda4ad6878c058444a3771421c95d4ef457e25b8afe1d0b22e",
+      "word_count": 1183,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-176",
       "title": "Oilseed Storage, Aflatoxin Risk and Moisture Control",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-176-oilseed-storage-aflatoxin-risk-and-moisture-control.md",
+      "sha256": "9e7bb7c72330b71c3d8567fad6ebf07eb2e635062712c32b23ba3f8c87b77a95",
+      "word_count": 1214,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-177",
       "title": "Oil Content, Quality Grades and Processing Economics",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-177-oil-content-quality-grades-and-processing-economics.md",
+      "sha256": "1d25ae964bfa4ad40a5addb1e323b3a68e499c2f932bd5cd28b6ead089cc3380",
+      "word_count": 1066,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-178",
       "title": "Import Competition, Domestic Prices and Policy Effects",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-178-import-competition-domestic-prices-and-policy-effects.md",
+      "sha256": "66315a72a2db8e785a484a896c3e50350d11c57cab7cb6a61c0e188ce9789556",
+      "word_count": 1040,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-179",
       "title": "Oilseed Crop Rotation, Soil Health and Pest Breaks",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-179-oilseed-crop-rotation-soil-health-and-pest-breaks.md",
+      "sha256": "c8d448e06700883fe7beea6a40816cd5107e08c810ec0d0737316590aa48f341",
+      "word_count": 1155,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-180",
       "title": "Comparing Oilseed Gross Margins Without Treating Them as Guaranteed",
       "part": 15,
       "part_title": "Oilseeds and Edible Oils",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-180-comparing-oilseed-gross-margins-without-treating-them-as-guaranteed.md",
+      "sha256": "d94d723ad07315acad9501fcdf19bac42c14f01307ac86902cc70e9afcdd843e",
+      "word_count": 1284,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-181",
