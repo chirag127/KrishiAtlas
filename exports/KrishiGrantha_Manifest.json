@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T20:57:19.307141+00:00",
+  "generated_at": "2026-10-18T21:05:52.037931+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 168,
-  "total_words": 208261,
+  "included_articles_count": 180,
+  "total_words": 223418,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "a5c7f13a35911aca61c1ce1592bf5d8367ec3d21a4b3084137c194043c282aa3",
+  "master_md_sha256": "940b32b7636124948855d13f8c2cedc308b756d584e84d940ddc785a145d5064",
   "articles": [
     {
       "id": "KA-001",
@@ -1728,132 +1728,132 @@
       "title": "Chickpea: Sowing, Nodulation and Terminal Heat Risks",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-157-chickpea-sowing-nodulation-and-terminal-heat-risks.md",
+      "sha256": "5c7cae5dd8aa2d82895db65a61eea9f729b862281c67de0ac71797db5d83d0e7",
+      "word_count": 1284,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-158",
       "title": "Pigeon Pea: Duration, Intercropping and Market Timing",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-158-pigeon-pea-duration-intercropping-and-market-timing.md",
+      "sha256": "eb6d2fae4f2a8a375c3db612ab27479985e38a73b03a9e590635bf987485b77c",
+      "word_count": 1203,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-159",
       "title": "Green Gram and Black Gram Production Systems",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-159-green-gram-and-black-gram-production-systems.md",
+      "sha256": "e756e3bd616ac4cdb0f48b958e1e4c0a73c6a8e41aa11f72160c8f54b1978d3f",
+      "word_count": 1285,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-160",
       "title": "Lentil Production, Residual Moisture and Rotational Value",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-160-lentil-production-residual-moisture-and-rotational-value.md",
+      "sha256": "93b77f72d0f3d41e7560d729ecf048abfbec5cd6cd51a2327ae28d7e55526c1a",
+      "word_count": 1272,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-161",
       "title": "Field Pea and Other Cool-Season Grain Legumes",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-161-field-pea-and-other-cool-season-grain-legumes.md",
+      "sha256": "079585629b51efa681a6ff5e6308e0419b0ac6f42c4c91180b7dea0815fe8882",
+      "word_count": 1343,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-162",
       "title": "Cowpea for Grain, Vegetable and Fodder Uses",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-162-cowpea-for-grain-vegetable-and-fodder-uses.md",
+      "sha256": "20e38a02f7605c3277b183433775c050155c3060ec0bb851dc09a0eecfb4cee6",
+      "word_count": 1334,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-163",
       "title": "Ground-Level Legume Nitrogen Fixation and Rhizobium Management",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-163-ground-level-legume-nitrogen-fixation-and-rhizobium-management.md",
+      "sha256": "445de938e20150e5b0460c763d5a40dae841b5d2bd9d5c56815bd0e064fe302d",
+      "word_count": 1264,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-164",
       "title": "Pulse Insects, Pod Borers, Wilt and Disease Prevention",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-164-pulse-insects-pod-borers-wilt-and-disease-prevention.md",
+      "sha256": "45ecd4e533deb6f0b61cd2074d4260b32b926cc4b9bac5496d81634fbddd9c24",
+      "word_count": 1189,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-165",
       "title": "Pulse Harvest, Threshing, Storage and Bruchid Control",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-165-pulse-harvest-threshing-storage-and-bruchid-control.md",
+      "sha256": "b17321dcbdd2417ebaa3b5610be559e0dd4ceabe04927aa3f19089ff989974df",
+      "word_count": 1407,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-166",
       "title": "Pulse Quality, Grading, Procurement and Buyer Requirements",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-166-pulse-quality-grading-procurement-and-buyer-requirements.md",
+      "sha256": "4bc09ee252660fe19b4b0bb891906ce17530a362324a6a2accce690d915bdc57",
+      "word_count": 1194,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-167",
       "title": "Pulse Residues, Soil Benefits and Whole-System Economics",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-167-pulse-residues-soil-benefits-and-whole-system-economics.md",
+      "sha256": "d354c29752b8faa9c73f20f1dfc8a5c58c4b30b6094ef4a9e888aba92fe12e6a",
+      "word_count": 1202,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-168",
       "title": "Why Pulses Can Be Profitable or Unprofitable Across Seasons",
       "part": 14,
       "part_title": "Pulses and Grain Legumes",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-168-why-pulses-can-be-profitable-or-unprofitable-across-seasons.md",
+      "sha256": "776d33c2feeed26dce6a92c8511f38c93aee94ea019d47c3970dc34e1a9fbd93",
+      "word_count": 1180,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-169",

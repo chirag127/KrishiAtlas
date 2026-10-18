@@ -146,7 +146,20 @@
   - `KA-154` — Millet Market Demand, Procurement and Value Addition (Published)
   - `KA-155` — Nutritional Claims, Food Safety and Consumer Acceptance (Published)
   - `KA-156` — When Millets Are Agronomically Suitable but Commercially Difficult (Published)
+- **Part 14: Pulses and Grain Legumes (12/12 Complete)**:
+  - `KA-157` — Chickpea: Sowing, Nodulation and Terminal Heat Risks (Published)
+  - `KA-158` — Pigeon Pea: Duration, Intercropping and Market Timing (Published)
+  - `KA-159` — Green Gram and Black Gram Production Systems (Published)
+  - `KA-160` — Lentil Production, Residual Moisture and Rotational Value (Published)
+  - `KA-161` — Field Pea and Other Cool-Season Grain Legumes (Published)
+  - `KA-162` — Cowpea for Grain, Vegetable and Fodder Uses (Published)
+  - `KA-163` — Ground-Level Legume Nitrogen Fixation and Rhizobium Management (Published)
+  - `KA-164` — Pulse Insects, Pod Borers, Wilt and Disease Prevention (Published)
+  - `KA-165` — Pulse Harvest, Threshing, Storage and Bruchid Control (Published)
+  - `KA-166` — Pulse Quality, Grading, Procurement and Buyer Requirements (Published)
+  - `KA-167` — Pulse Residues, Soil Benefits and Whole-System Economics (Published)
+  - `KA-168` — Why Pulses Can Be Profitable or Unprofitable Across Seasons (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 168 articles + master case study = **208,261 words** (1.63 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 14 (`KA-157` through `KA-168`: Pulses and Grain Legumes).
+- **Master Book Progress:** 180 articles + master case study = **223,418 words** (1.74 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 15 (`KA-169` through `KA-180`: Oilseeds and Edible Oils).

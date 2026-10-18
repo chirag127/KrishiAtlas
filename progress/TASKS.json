@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T02:28:00+05:30",
+  "last_updated": "2026-10-19T02:37:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 168,
-  "completed_parts": 14,
-  "master_manuscript_words": 208261,
+  "completed_articles": 180,
+  "completed_parts": 15,
+  "master_manuscript_words": 223418,
   "milestones": [
     {
       "id": "M01",
@@ -135,6 +135,12 @@
           "status": "completed"
         },
         {
+          "part": 14,
+          "title": "Pulses and Grain Legumes",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -142,10 +148,10 @@
         }
       ],
       "active_part": {
-        "part": 14,
-        "title": "Pulses and Grain Legumes",
+        "part": 15,
+        "title": "Oilseeds and Edible Oils",
         "target_articles": 12,
-        "next_article": "KA-157"
+        "next_article": "KA-169"
       }
     }
   ]
