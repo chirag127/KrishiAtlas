@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T01:48:00+05:30",
+  "last_updated": "2026-10-19T02:00:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 120,
-  "completed_parts": 10,
-  "master_manuscript_words": 151413,
+  "completed_articles": 132,
+  "completed_parts": 11,
+  "master_manuscript_words": 165216,
   "milestones": [
     {
       "id": "M01",
@@ -111,6 +111,12 @@
           "status": "completed"
         },
         {
+          "part": 10,
+          "title": "Seeds, Genetics, Varieties and Plant Breeding",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -118,10 +124,10 @@
         }
       ],
       "active_part": {
-        "part": 10,
-        "title": "Seeds, Genetics, Varieties and Plant Breeding",
+        "part": 11,
+        "title": "Cropping Systems, Agronomy and Field Operations",
         "target_articles": 12,
-        "next_article": "KA-109"
+        "next_article": "KA-121"
       }
     }
   ]

@@ -94,7 +94,20 @@
   - `KA-106` — Weather-Indexed Products, Insurance Basis Risk and Limitations (Published)
   - `KA-107` — Sowing Windows, Contingency Plans and Delayed Monsoon Responses (Published)
   - `KA-108` — Post-Event Crop Assessment and Recovery Decisions (Published)
+- **Part 10: Seeds, Genetics, Varieties and Plant Breeding (12/12 Complete)**:
+  - `KA-109` — Seed Classes, Certification, Truthful Labelling and Quality Standards (Published)
+  - `KA-110` — Germination, Vigour, Purity, Moisture and Seed Health (Published)
+  - `KA-111` — Open-Pollinated Varieties, Hybrids and Their Trade-Offs (Published)
+  - `KA-112` — Variety Selection by Maturity, Climate, Market and Disease Risk (Published)
+  - `KA-113` — Plant Breeding, Trial Results and Multi-Location Performance (Published)
+  - `KA-114` — Genetic Resources, Landraces and Crop Biodiversity (Published)
+  - `KA-115` — Seed Treatment: Evidence, Safety and Label Compliance (Published)
+  - `KA-116` — Seed Production, Isolation, Roguing and Field Standards (Published)
+  - `KA-117` — Seed Storage, Longevity and Germination Losses (Published)
+  - `KA-118` — Plant Variety Protection, Farmers' Rights and Seed Saving Rules (Published)
+  - `KA-119` — Detecting Counterfeit Seed and Resolving Dealer Complaints (Published)
+  - `KA-120` — How to Validate New Varieties Before Large-Scale Adoption (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 120 articles + master case study = **151,413 words** (1.2 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 10 (`KA-109` through `KA-120`: Seeds, Genetics, Varieties and Plant Breeding).
+- **Master Book Progress:** 132 articles + master case study = **165,216 words** (1.3 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 11 (`KA-121` through `KA-132`: Cropping Systems, Agronomy and Field Operations).
