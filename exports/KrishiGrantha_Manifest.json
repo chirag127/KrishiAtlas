@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T20:04:53.857151+00:00",
+  "generated_at": "2026-10-18T20:17:26.161226+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 108,
-  "total_words": 135779,
+  "included_articles_count": 120,
+  "total_words": 151413,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "94c76d4c9f11eae2e7e6c363a98325a9a7aa60d5f34a42bb0e2d1b1250d781f4",
+  "master_md_sha256": "f968078543691e7bf3052ed6a9cb3d4fb9b86807a2b3d4986f249d2bc31f6d00",
   "articles": [
     {
       "id": "KA-001",
@@ -1068,132 +1068,132 @@
       "title": "Monsoon Onset, Breaks, Withdrawal and Regional Uncertainty",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-097-monsoon-onset-breaks-withdrawal-and-regional-uncertainty.md",
+      "sha256": "3de39e12290ab1f0acca8a926cfc9fa30ef2447b5d0015a074d832038de54a46",
+      "word_count": 1298,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-098",
       "title": "Kharif, Rabi, Zaid and Locally Relevant Crop Seasons",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-098-kharif-rabi-zaid-and-locally-relevant-crop-seasons.md",
+      "sha256": "a4e2b3a4897381f28400a8d8468bdc8a6ec7914cd6885f755fc65055ce0a8e2a",
+      "word_count": 1350,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-099",
       "title": "Temperature Stress, Heat Waves and Reproductive Damage",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-099-temperature-stress-heat-waves-and-reproductive-damage.md",
+      "sha256": "23971e9d365285303681c8cb51817afe6d4157b2766df9f0d926effb18730f83",
+      "word_count": 1335,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-100",
       "title": "Frost, Cold Waves, Chilling Requirements and Protected Responses",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-100-frost-cold-waves-chilling-requirements-and-protected-responses.md",
+      "sha256": "f6517cad749d8f9baf5169df5e6e649314f895d9919719741e8170834c612427",
+      "word_count": 1331,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-101",
       "title": "Rainfall Distribution, Dry Spells and Extreme Precipitation",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-101-rainfall-distribution-dry-spells-and-extreme-precipitation.md",
+      "sha256": "ded8f72793d8205af676e0606fe0ebcfc0f032d8362e914eed98dc93dc9598b2",
+      "word_count": 1296,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-102",
       "title": "Humidity, Leaf Wetness and Disease Conditions",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-102-humidity-leaf-wetness-and-disease-conditions.md",
+      "sha256": "0573efb0a98745148528269acbe822bc8e7208508279229b14efda3304cf695c",
+      "word_count": 1301,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-103",
       "title": "Reading Forecasts, Probability and Forecast Skill",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-103-reading-forecasts-probability-and-forecast-skill.md",
+      "sha256": "95cb013a79a9339f4f5220e6a7a497f7f967caa5300c8c7d9fb88235b4626bb0",
+      "word_count": 1527,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-104",
       "title": "District Agrometeorological Advisories and How to Apply Them",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-104-district-agrometeorological-advisories-and-how-to-apply-them.md",
+      "sha256": "2180d95e048aa1bf325bb64ed9285a4df44964351168eb10755107999361fb7c",
+      "word_count": 1379,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-105",
       "title": "Climate Change Signals and Local Farm-Level Uncertainty",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-105-climate-change-signals-and-local-farm-level-uncertainty.md",
+      "sha256": "1830980f64b1aa4ca2c587f7046d8731f4f04d0594a0d3b4ed91243800da4a17",
+      "word_count": 1303,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-106",
       "title": "Weather-Indexed Products, Insurance Basis Risk and Limitations",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-106-weather-indexed-products-insurance-basis-risk-and-limitations.md",
+      "sha256": "14bc3cc98d6a6acc05b0f2b3603d3cdc23949b6f5f5a1d097546260275ba34af",
+      "word_count": 1225,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-107",
       "title": "Sowing Windows, Contingency Plans and Delayed Monsoon Responses",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-107-sowing-windows-contingency-plans-and-delayed-monsoon-responses.md",
+      "sha256": "3645dc0ec2b73c89a07728354499b4357b8e1125b806293f4da5c3f835405f6b",
+      "word_count": 1152,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-108",
       "title": "Post-Event Crop Assessment and Recovery Decisions",
       "part": 9,
       "part_title": "Weather, Climate, Seasons and Agrometeorology",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-108-post-event-crop-assessment-and-recovery-decisions.md",
+      "sha256": "e5d7962de37189bec0020ce2f6d53d38222e43f21c090395837696e1474f4def",
+      "word_count": 1137,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-109",

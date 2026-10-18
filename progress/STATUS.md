@@ -81,7 +81,20 @@
   - `KA-094` — Rainwater Harvesting, Farm Ponds and Storage Design Principles (Published)
   - `KA-095` — Water Budgeting and Drought-Year Cropping Decisions (Published)
   - `KA-096` — Why a Water-Intensive Crop May Be Unsuitable Despite High Prices (Published)
+- **Part 09: Weather, Climate, Seasons and Agrometeorology (12/12 Complete)**:
+  - `KA-097` — Monsoon Onset, Breaks, Withdrawal and Regional Uncertainty (Published)
+  - `KA-098` — Kharif, Rabi, Zaid and Locally Relevant Crop Seasons (Published)
+  - `KA-099` — Temperature Stress, Heat Waves and Reproductive Damage (Published)
+  - `KA-100` — Frost, Cold Waves, Chilling Requirements and Protected Responses (Published)
+  - `KA-101` — Rainfall Distribution, Dry Spells and Extreme Precipitation (Published)
+  - `KA-102` — Humidity, Leaf Wetness and Disease Conditions (Published)
+  - `KA-103` — Reading Forecasts, Probability and Forecast Skill (Published)
+  - `KA-104` — District Agrometeorological Advisories and How to Apply Them (Published)
+  - `KA-105` — Climate Change Signals and Local Farm-Level Uncertainty (Published)
+  - `KA-106` — Weather-Indexed Products, Insurance Basis Risk and Limitations (Published)
+  - `KA-107` — Sowing Windows, Contingency Plans and Delayed Monsoon Responses (Published)
+  - `KA-108` — Post-Event Crop Assessment and Recovery Decisions (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 108 articles + master case study = **135,779 words** (1.1 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 09 (`KA-097` through `KA-108`: Weather, Climate, Seasons and Agrometeorology).
+- **Master Book Progress:** 120 articles + master case study = **151,413 words** (1.2 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 10 (`KA-109` through `KA-120`: Seeds, Genetics, Varieties and Plant Breeding).

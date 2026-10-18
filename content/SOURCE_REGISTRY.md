@@ -7,7 +7,7 @@ This registry records authoritative primary institutions, legislative statutes, 
 ## Tier 1: Apex Indian Government & Statutory Bodies
 
 | Source ID | Institution / Document | Official Domain / URI | Description & Coverage Scope | Verification Status |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | `SRC-0001` | **Ministry of Agriculture & Farmers Welfare (MoA&FW)** | `agricoop.gov.in` | National agricultural policy, production statistics, centrally sponsored schemes (PM-KISAN, PMFBY, RKVY, MIDH). | Verified (2026) |
 | `SRC-0002` | **Indian Council of Agricultural Research (ICAR)** | `icar.org.in` | 102+ research institutes, 71 agricultural universities, 731+ KVKs; crop varieties, agronomic packages of practices, soil health. | Verified (2026) |
 | `SRC-0003` | **Directorate of Economics & Statistics (DES), MoA&FW** | `desagri.gov.in` | Cost of Cultivation studies (A2, A2+FL, C2), agricultural statistics at a glance, state-wise crop area, production, yield. | Verified (2026) |
@@ -20,13 +20,19 @@ This registry records authoritative primary institutions, legislative statutes, 
 | `SRC-0010` | **Central Board of Indirect Taxes & Customs (CBIC)** | `cbic.gov.in` | GST rates on fresh produce (0%), processed foods, tractors, agricultural implements, fertilizers, cold chain logistics. | Verified (2026) |
 | `SRC-0011` | **National Rainfed Area Authority (NRAA)** | `nraa.gov.in` | Rainfed agriculture guidelines, watershed management, drought resilience strategies across 8 dryland zones. | Verified (2026) |
 | `SRC-0012` | **Central Ground Water Board (CGWB)** | `cgwb.gov.in` | Dynamic ground water resource assessments, safe/semi-critical/critical/over-exploited aquifer blocks, extraction norms. | Verified (2026) |
+| `SRC-0013` | **India Meteorological Department (IMD)** | `mausam.imd.gov.in` | National weather forecasting, agrometeorological advisory services (AAS/GKMS), rainfall records, cyclone warnings. | Verified (2026) |
+| `SRC-0014` | **ICAR-CRIDA (Central Research Institute for Dryland Agriculture)** | `crida.in` | National district-wise agricultural contingency plans, rainfed farming systems, climate-resilient technologies (NICRA). | Verified (2026) |
+| `SRC-0015` | **Protection of Plant Varieties & Farmers' Rights Authority (PPV&FRA)** | `plantauthority.gov.in` | DUS testing guidelines, national gene fund, registration of extant/farmers' varieties, intellectual property protection. | Verified (2026) |
+| `SRC-0016` | **National Seeds Corporation (NSC)** | `indiaseeds.com` | Foundation and certified seed production, processing, seed quality standards, Indian Minimum Seed Certification Standards. | Verified (2026) |
+| `SRC-0017` | **ICAR-NBPGR (National Bureau of Plant Genetic Resources)** | `nbpgr.icar.gov.in` | National Genebank, plant germplasm exploration, conservation, quarantine, landrace cataloging. | Verified (2026) |
+| `SRC-0018` | **ICAR-IISS (Indian Institute of Seed Science, Mau)** | `seedres.icar.gov.in` | Seed technology research, hybrid seed production protocols, seed vigor, physiological seed pathology. | Verified (2026) |
 
 ---
 
 ## Tier 2: State Agricultural Universities (SAUs) & Specialised National Institutes
 
 | Source ID | Institution | Focus Area | Notes & Package of Practices |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | `SRC-0020` | **IARI — Indian Agricultural Research Institute (Pusa)** | High-yielding cereals, basmati rice, pulses, vegetable varieties. | National hub for breeder seed and agronomic protocols. |
 | `SRC-0021` | **GBPUAT — Pantnagar University** | Tarai & Indo-Gangetic Plains agronomy, farm machinery, seed technology. | India's first agricultural university (1960). |
 | `SRC-0022` | **PAU — Punjab Agricultural University, Ludhiana** | Wheat-rice intensive systems, direct seeded rice (DSR), happy seeder. | Primary authority on NW India cropping economics. |
@@ -43,7 +49,7 @@ This registry records authoritative primary institutions, legislative statutes, 
 ## Tier 3: Multilateral & International Agriscience Repositories
 
 | Source ID | Organization | Scope |
-|---|---|---|
+| --- | --- | --- |
 | `SRC-0040` | **FAO (Food and Agriculture Organization of the UN)** | Global food balance sheets, FAOSTAT, crop water requirements (FAO-56). |
 | `SRC-0041` | **CGIAR (IRRI, CIMMYT, ICRISAT, IFPRI)** | International rice/wheat/maize/semi-arid crop genetics and policy research. |
 | `SRC-0042` | **World Bank Agriculture & Food Global Practice** | Rural finance evaluations, value chain diagnostics, climate-smart agriculture. |
@@ -51,6 +57,7 @@ This registry records authoritative primary institutions, legislative statutes, 
 ---
 
 ## Verification & Citation Policy
+
 1. Every claim regarding dosages, legal provisions, subsidy percentages, and costs must cite at least one verified Source ID.
 2. If an official website is temporarily unresponsive, the date of last verification is logged, and the fallback cached snapshot/gazette notification is consulted.
 3. No commercial blog, unverified forum post, or promotional vendor flyer may be used as an authoritative source.

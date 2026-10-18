@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T01:35:00+05:30",
+  "last_updated": "2026-10-19T01:48:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 108,
-  "completed_parts": 9,
-  "master_manuscript_words": 135779,
+  "completed_articles": 120,
+  "completed_parts": 10,
+  "master_manuscript_words": 151413,
   "milestones": [
     {
       "id": "M01",
@@ -105,6 +105,12 @@
           "status": "completed"
         },
         {
+          "part": 9,
+          "title": "Weather, Climate, Seasons and Agrometeorology",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -112,10 +118,10 @@
         }
       ],
       "active_part": {
-        "part": 9,
-        "title": "Weather, Climate, Seasons and Agrometeorology",
+        "part": 10,
+        "title": "Seeds, Genetics, Varieties and Plant Breeding",
         "target_articles": 12,
-        "next_article": "KA-097"
+        "next_article": "KA-109"
       }
     }
   ]

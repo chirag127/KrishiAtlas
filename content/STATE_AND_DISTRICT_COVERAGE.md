@@ -7,7 +7,7 @@ This matrix establishes the comprehensive agronomic, institutional, and geograph
 ## The 28 States of the Republic of India
 
 | State | Agro-Climatic Zones | Staple / Commercial Crops | Major Soils | Land Records Portal (Bhulekh) | State Agri / DBT Portal |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | **1. Andhra Pradesh** | Coastal Andhra, Rayalaseema, North Coastal | Paddy, Groundnut, Cotton, Chilli, Tobacco, Mango, Oil Palm | Red sandy loams, Coastal alluvium, Deep black cotton soils | Meebhoomi (`meebhoomi.ap.gov.in`) | `apagrisnet.gov.in` |
 | **2. Arunachal Pradesh** | Alpine, Sub-tropical, Tropical valley | Rice, Maize, Millet, Kiwi, Large Cardamom, Orange | Red loamy, Forest soils, Alluvial | Land Records Portal (`landrecords.arunachal.gov.in`) | `agri.arunachal.gov.in` |
 | **3. Assam** | Brahmaputra Valley, Barak Valley, Hill Zone | Rice (Sali, Ahu, Boro), Tea, Jute, Mustard, Arecanut | Alluvial, Acidic red loamy soils | Dharitree (`ilrms.assam.gov.in`) | `diragri.assam.gov.in` |
@@ -42,7 +42,7 @@ This matrix establishes the comprehensive agronomic, institutional, and geograph
 ## The 8 Union Territories
 
 | Union Territory | Primary Agriculture / Horticultural Focus | Key Soils & Water Status | Land Records / Governance System |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **1. Andaman & Nicobar Islands** | Coconut, Arecanut, Spices (Black Pepper, Nutmeg), Marine Fishery | Calcareous sandy, Marine alluvium | Andaman Land Records (`db.and.nic.in/revenue`) |
 | **2. Chandigarh** | Peri-urban nursery, floriculture, high-tech polyhouses, urban horticulture | Alluvial plain | Estate Office UT Chandigarh (`chandigarh.gov.in`) |
 | **3. Dadra & Nagar Haveli and Daman & Diu** | Paddy, Ragi, Small millets, Mango, Chikoo | Coastal alluvium, Red sandy | Daman & Diu Revenue Portal (`daman.nic.in`) |
@@ -55,4 +55,5 @@ This matrix establishes the comprehensive agronomic, institutional, and geograph
 ---
 
 ## District Extension Coverage Standard
+
 Every KrishiAtlas article referencing regional crop varieties, pest outbreaks, or local economics links directly to the corresponding **Krishi Vigyan Kendra (KVK)** district nodal hub. A national directory of all 731 KVKs indexed by state and district is integrated into the site's district search module.

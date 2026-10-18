@@ -5,6 +5,7 @@ This register details official Central Government and major State Government agr
 ---
 
 ## Scheme Status Lifecycle Taxonomy
+
 - **`Active — Open`**: Portal currently accepting applications; funds sanctioned in current budget cycle.
 - **`Active — Target Exhausted`**: Scheme is legally active, but district/state budget quotas are saturated; applications queued or paused.
 - **`Announced — Pending Guidelines`**: High-level announcement made in budget or press release; operational guidelines (SOP) not yet notified.
@@ -17,6 +18,7 @@ This register details official Central Government and major State Government agr
 ## Central Government Umbrella Schemes (Centrally Sponsored & Central Sector)
 
 ### 1. PM Kisan Samman Nidhi (PM-KISAN)
+
 - **Status:** `Active — Open` (Verified October 2026)
 - **Nodal Agency:** Ministry of Agriculture & Farmers Welfare (MoA&FW)
 - **Portal:** `pmkisan.gov.in`
@@ -36,6 +38,7 @@ This register details official Central Government and major State Government agr
 ---
 
 ### 2. Agriculture Infrastructure Fund (AIF)
+
 - **Status:** `Active — Open` (Operating window extended through 2032-33)
 - **Nodal Agency:** MoA&FW in partnership with NABARD & Scheduled Commercial Banks
 - **Portal:** `agriinfra.dac.gov.in`
@@ -50,6 +53,7 @@ This register details official Central Government and major State Government agr
 ---
 
 ### 3. Mission for Integrated Development of Horticulture (MIDH)
+
 - **Status:** `Active — Target Exhausted / Allocation Based` (State annual quota dependent)
 - **Nodal Agency:** National Horticulture Mission (NHM) / National Horticulture Board (NHB)
 - **Portal:** `midh.gov.in` / `nhb.gov.in`
@@ -64,6 +68,7 @@ This register details official Central Government and major State Government agr
 ---
 
 ### 4. Sub-Mission on Agricultural Mechanization (SMAM)
+
 - **Status:** `Active — State Portals Open Periodically`
 - **Nodal Agency:** Mechanization & Technology Division, MoA&FW
 - **Portal:** `agrimachinery.nic.in` (and state DBT portals like `upagriculture.com`, `dbtagriculture.bihar.gov.in`)
@@ -73,6 +78,7 @@ This register details official Central Government and major State Government agr
 ---
 
 ### 5. Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) — Per Drop More Crop (Micro-Irrigation)
+
 - **Status:** `Active — Open`
 - **Nodal Agency:** Department of Agriculture & Farmers Welfare
 - **Benefit:** 55% subsidy for Small & Marginal farmers, 45% for Other farmers for Drip and Sprinkler irrigation systems based on standardized unit cost per hectare.
@@ -84,7 +90,7 @@ This register details official Central Government and major State Government agr
 ## State-Specific Flagship Subsidy Programs
 
 | State | Scheme Name | Primary Focus | Subsidy Rate & Mechanism | Status (2026) |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | **Uttar Pradesh** | UP Agriculture DBT (`upagriculture.com`) | Solar Pumps (PM-KUSUM Component B), Farm Implements, Seeds | 60% subsidy on solar pump (3 HP, 5 HP, 7.5 HP); Online token booking required. | Active (Seasonal lottery tokens) |
 | **Maharashtra** | MahaDBT Farmer Schemes (`mahadbt.maharashtra.gov.in`) | Farm ponds (Shet Tale), micro-irrigation, mechanization, onion chawls | Direct DBT into Aadhaar linked account upon geotag verification. | Active — Open |
 | **Odisha** | Mukhyamantri Krushi Udyog Yojana (MKUY) | Commercial agriculture enterprises, dairy, poultry, cold stores | 40% capital investment subsidy (up to ₹50 lakh; 50% for SC/ST/Women/PWD). | Active — Open (`agrinet.odisha.gov.in`) |
@@ -95,6 +101,7 @@ This register details official Central Government and major State Government agr
 ---
 
 ## The Golden Rules of Agricultural Subsidies
+
 1. **Never build a business plan where viability depends entirely on subsidy receipt.** Treat subsidies as retrospective capital de-risking, not upfront operating margin.
 2. **Never initiate expenditure before receiving the official In-Principle Approval (IPA) / Sanction Order.** Construction or procurement prior to sanction invalidates eligibility across nearly all central schemes.
 3. **Verify budget availability at the District level (District Agriculture Officer / DHO / KVK).** A centrally approved scheme often sits unfunded in specific districts due to delayed state treasury matching-share releases.
