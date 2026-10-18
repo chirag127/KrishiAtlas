@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T19:41:17.054527+00:00",
+  "generated_at": "2026-10-18T19:54:17.460477+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 84,
-  "total_words": 105444,
+  "included_articles_count": 96,
+  "total_words": 120710,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "0ed10fbc44ee199d7e2d495434ab1aedad9bbd8b13c4973b46738e450f130bad",
+  "master_md_sha256": "cec02cb11f8da4507da7eb886f9b3ccccfa6124e797c694edf92fa3093da9690",
   "articles": [
     {
       "id": "KA-001",
@@ -804,132 +804,132 @@
       "title": "Essential Plant Nutrients and Their Physiological Roles",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-073-essential-plant-nutrients-and-their-physiological-roles.md",
+      "sha256": "66b00cf637fb3326320dc56753560e23d094fa5b65f61f1a3476c8b018b302d9",
+      "word_count": 1550,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-074",
       "title": "Nitrogen: Loss Pathways, Timing and Efficient Use",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-074-nitrogen-loss-pathways-timing-and-efficient-use.md",
+      "sha256": "53087d34df13c46624cea5531527826b07839181636d1258ea52dcbd5476ae45",
+      "word_count": 1223,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-075",
       "title": "Phosphorus Availability, Fixation and Placement",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-075-phosphorus-availability-fixation-and-placement.md",
+      "sha256": "6645dd6f781e80222da0a2e74d43a10b628534cf2a1c0d42d06bb465b05e126c",
+      "word_count": 1192,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-076",
       "title": "Potassium Functions, Soil Supply and Crop Response",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-076-potassium-functions-soil-supply-and-crop-response.md",
+      "sha256": "c9dbdd5cf8468b70dddab00c838627f4e17715429a50c5cc687d0b6cab2fe4a5",
+      "word_count": 1180,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-077",
       "title": "Sulphur, Calcium, Magnesium and Secondary Nutrients",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-077-sulphur-calcium-magnesium-and-secondary-nutrients.md",
+      "sha256": "ceb86f2c59646bdf35ff3a8042231e6f43f0e356fb98e46ae54ea37c68fa3de5",
+      "word_count": 1205,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-078",
       "title": "Zinc, Boron, Iron and Other Micronutrient Deficiencies",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-078-zinc-boron-iron-and-other-micronutrient-deficiencies.md",
+      "sha256": "ecad5a4922c9994e91fa3b04f569656332f63d82d4a767291dc3e5279c30c1d5",
+      "word_count": 1141,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-079",
       "title": "Organic Manures, Compost, Vermicompost and Nutrient Variability",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-079-organic-manures-compost-vermicompost-and-nutrient-variability.md",
+      "sha256": "022ddd9ad89994431efa025d298d50866f7d1adc921cf4094983164dd5088b82",
+      "word_count": 1371,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-080",
       "title": "Chemical Fertilizers, Label Analysis and Safe Handling",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-080-chemical-fertilizers-label-analysis-and-safe-handling.md",
+      "sha256": "c5f92217b2db073501626c2e25882f177b3b14ad0a33d12979dbfa63e90d574c",
+      "word_count": 1467,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-081",
       "title": "Integrated Nutrient Management and Nutrient Budgets",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-081-integrated-nutrient-management-and-nutrient-budgets.md",
+      "sha256": "dc9ef9468184a44760cca3e19f54d012de9aebc80fb9bff3a2de7799a7e61124",
+      "word_count": 1200,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-082",
       "title": "Liming, Gypsum and Soil Amendments: When They Are Appropriate",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-082-liming-gypsum-and-soil-amendments-when-they-are-appropriate.md",
+      "sha256": "be8cba71313c8e95600beb6cd9be81104dfda35dc1a95cc2ba66d0463ebf0028",
+      "word_count": 1263,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-083",
       "title": "Fertigation, Foliar Feeding and Root-Zone Delivery",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-083-fertigation-foliar-feeding-and-root-zone-delivery.md",
+      "sha256": "6cbe68d792046b4a39ee7dc1d5504050181e76ebec0c7264fd44795c17772190",
+      "word_count": 1269,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-084",
       "title": "Avoiding Excess Fertilizer, False Claims and Unnecessary Inputs",
       "part": 7,
       "part_title": "Soil Fertility, Nutrient Management and Amendments",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-084-avoiding-excess-fertilizer-false-claims-and-unnecessary-inputs.md",
+      "sha256": "7b63dbae2fdd54e63dece575c23d72072dad7ad1b39ee4016c664cf0cf9fb588",
+      "word_count": 1205,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-085",

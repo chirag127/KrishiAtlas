@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T01:11:00+05:30",
+  "last_updated": "2026-10-19T01:25:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 84,
-  "completed_parts": 7,
-  "master_manuscript_words": 105444,
+  "completed_articles": 96,
+  "completed_parts": 8,
+  "master_manuscript_words": 120710,
   "milestones": [
     {
       "id": "M01",
@@ -93,6 +93,12 @@
           "status": "completed"
         },
         {
+          "part": 7,
+          "title": "Soil Fertility, Nutrient Management and Amendments",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -100,10 +106,10 @@
         }
       ],
       "active_part": {
-        "part": 7,
-        "title": "Soil Biology, Organic Matter and Composting",
+        "part": 8,
+        "title": "Seeds, Propagation, Varieties and Crop Establishment",
         "target_articles": 12,
-        "next_article": "KA-073"
+        "next_article": "KA-085"
       }
     }
   ]

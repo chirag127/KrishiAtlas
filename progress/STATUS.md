@@ -55,7 +55,20 @@
   - `KA-070` — Soil Sampling Design, Laboratory Reports and Interpretation (Published)
   - `KA-071` — Soil Health Indicators and the Limits of a Single Test (Published)
   - `KA-072` — Matching Crops to Soil Conditions Without Overgeneralizing (Published)
+- **Part 07: Soil Fertility, Nutrient Management and Amendments (12/12 Complete)**:
+  - `KA-073` — Essential Plant Nutrients and Their Physiological Roles (Published)
+  - `KA-074` — Nitrogen: Loss Pathways, Timing and Efficient Use (Published)
+  - `KA-075` — Phosphorus Availability, Fixation and Placement (Published)
+  - `KA-076` — Potassium Functions, Soil Supply and Crop Response (Published)
+  - `KA-077` — Sulphur, Calcium, Magnesium and Secondary Nutrients (Published)
+  - `KA-078` — Zinc, Boron, Iron and Other Micronutrient Deficiencies (Published)
+  - `KA-079` — Organic Manures, Compost, Vermicompost and Nutrient Variability (Published)
+  - `KA-080` — Chemical Fertilizers, Label Analysis and Safe Handling (Published)
+  - `KA-081` — Integrated Nutrient Management and Nutrient Budgets (Published)
+  - `KA-082` — Liming, Gypsum and Soil Amendments: When They Are Appropriate (Published)
+  - `KA-083` — Fertigation, Foliar Feeding and Root-Zone Delivery (Published)
+  - `KA-084` — Avoiding Excess Fertilizer, False Claims and Unnecessary Inputs (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 84 articles + master case study = **105,444 words** in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 07 (`KA-073` through `KA-084`: Soil Biology, Organic Matter and Composting).
+- **Master Book Progress:** 96 articles + master case study = **120,710 words** (992 KB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 08 (`KA-085` through `KA-096`: Seeds, Propagation, Varieties and Crop Establishment).
