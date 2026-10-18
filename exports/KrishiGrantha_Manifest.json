@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T20:29:09.971636+00:00",
+  "generated_at": "2026-10-18T20:37:51.693973+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 132,
-  "total_words": 165216,
+  "included_articles_count": 144,
+  "total_words": 179617,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "1939c275b90c60c9df0c4539b39e6cbce2e05caf1f38b29b3ad4b41665c08d1f",
+  "master_md_sha256": "8e22460189d964ddc24a1d8f7f16dc0f153f14fde0804f6c1de32d39030305f0",
   "articles": [
     {
       "id": "KA-001",
@@ -1332,132 +1332,132 @@
       "title": "Crop Establishment, Seedbed Preparation and Sowing Methods",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-121-crop-establishment-seedbed-preparation-and-sowing-methods.md",
+      "sha256": "eb2de3906e47e3c46fc26910330d4fce4c371ae4b0cd60be725922ad05fc841a",
+      "word_count": 1180,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-122",
       "title": "Plant Population, Spacing and Canopy Architecture",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-122-plant-population-spacing-and-canopy-architecture.md",
+      "sha256": "c32b920b5fe123285cee3a9d5e06dd4903237d96f3c3486c66294f32780bbf60",
+      "word_count": 1111,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-123",
       "title": "Crop Rotation, Sequence and Break-Crop Benefits",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-123-crop-rotation-sequence-and-break-crop-benefits.md",
+      "sha256": "08fc95be08544d443fb0bf3f280448178b11645b4a8073bd4189a2f163af8b7e",
+      "word_count": 1255,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-124",
       "title": "Intercropping, Relay Cropping and Strip Cropping",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-124-intercropping-relay-cropping-and-strip-cropping.md",
+      "sha256": "7191a63344b3159fa7bcab3faa8fe4d665358615e38ab92bc7fb7701f42120be",
+      "word_count": 1188,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-125",
       "title": "Multiple Cropping Intensity and Calendar Conflicts",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-125-multiple-cropping-intensity-and-calendar-conflicts.md",
+      "sha256": "7c54650d28036530b90f836e568d249f71f44bbe84617e967f83296115d33823",
+      "word_count": 1239,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-126",
       "title": "Conservation Agriculture, Minimum Tillage and Residue Retention",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-126-conservation-agriculture-minimum-tillage-and-residue-retention.md",
+      "sha256": "1d44f451bad914953b31e937d4158bd578f8304808e551a23bbdb7b2c50f3988",
+      "word_count": 1177,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-127",
       "title": "Zero Tillage, Direct Seeding and Site-Specific Suitability",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-127-zero-tillage-direct-seeding-and-site-specific-suitability.md",
+      "sha256": "79fa4bf2478278b26971c1bd6352449ea465313c3fb47f79cf2a3024176dbcc9",
+      "word_count": 1289,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-128",
       "title": "Weed Competition, Critical Weed-Free Periods and Control Options",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-128-weed-competition-critical-weed-free-periods-and-control-options.md",
+      "sha256": "5d3bbc3f9b675583331e539f1818a5acd43c48dd578769795c76b139a738b1bb",
+      "word_count": 1306,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-129",
       "title": "Crop Growth Stages, Phenology and Field Monitoring",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-129-crop-growth-stages-phenology-and-field-monitoring.md",
+      "sha256": "e73731c864f0ee8cd1cb4df45ccf7f01ab7b6bbc3e37c2cb6f33600ea3c28ffb",
+      "word_count": 1081,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-130",
       "title": "Harvest Timing, Maturity Indices and Quality Preservation",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-130-harvest-timing-maturity-indices-and-quality-preservation.md",
+      "sha256": "d561f549150b023eb9f91668373cf57e22706d28672e8763cb938393f349ac9a",
+      "word_count": 1201,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-131",
       "title": "Cropping-System Trials, Yield Stability and Whole-Farm Returns",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-131-cropping-system-trials-yield-stability-and-whole-farm-returns.md",
+      "sha256": "d97f4de6adf2be5b8241c18a4440bf4105a5b14fc3fce639f946baf15fc2a224",
+      "word_count": 1142,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-132",
       "title": "Why Recommendations Must Match Local Agroecology",
       "part": 11,
       "part_title": "Agronomy and Cropping Systems",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-132-why-recommendations-must-match-local-agroecology.md",
+      "sha256": "0d2d6d2c2b6cfeeb7114ce81ad382b2df3fd5bb2fe4481505049c08cb704e904",
+      "word_count": 1232,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-133",

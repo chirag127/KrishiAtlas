@@ -107,7 +107,20 @@
   - `KA-118` — Plant Variety Protection, Farmers' Rights and Seed Saving Rules (Published)
   - `KA-119` — Detecting Counterfeit Seed and Resolving Dealer Complaints (Published)
   - `KA-120` — How to Validate New Varieties Before Large-Scale Adoption (Published)
+- **Part 11: Cropping Systems, Agronomy and Field Operations (12/12 Complete)**:
+  - `KA-121` — Crop Establishment, Seedbed Preparation and Sowing Methods (Published)
+  - `KA-122` — Plant Population, Spacing and Canopy Architecture (Published)
+  - `KA-123` — Crop Rotation, Sequence and Break-Crop Benefits (Published)
+  - `KA-124` — Intercropping, Relay Cropping and Strip Cropping (Published)
+  - `KA-125` — Multiple Cropping Intensity and Calendar Conflicts (Published)
+  - `KA-126` — Conservation Agriculture, Minimum Tillage and Residue Retention (Published)
+  - `KA-127` — Zero Tillage, Direct Seeding and Site-Specific Suitability (Published)
+  - `KA-128` — Weed Competition, Critical Weed-Free Periods and Control Options (Published)
+  - `KA-129` — Crop Growth Stages, Phenology and Field Monitoring (Published)
+  - `KA-130` — Harvest Timing, Maturity Indices and Quality Preservation (Published)
+  - `KA-131` — Cropping-System Trials, Yield Stability and Whole-Farm Returns (Published)
+  - `KA-132` — Why Recommendations Must Match Local Agroecology (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 132 articles + master case study = **165,216 words** (1.3 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 11 (`KA-121` through `KA-132`: Cropping Systems, Agronomy and Field Operations).
+- **Master Book Progress:** 144 articles + master case study = **179,617 words** (1.4 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 12 (`KA-133` through `KA-144`: Cereal Crops: Rice, Wheat, Maize and Other Grains).
