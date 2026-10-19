@@ -53,6 +53,8 @@ This registry records authoritative primary institutions, legislative statutes, 
 | `SRC-0037` | **ICAR-CPCRI & ICAR-DCR (Plantation & Cashew Institutes)** | Coconut multi-tier cropping, arecanut disease management, cashew high-yielding varieties. | Kasaragod and Puttur apex plantation crop research centers. |
 | `SRC-0038` | **ICAR-CIAH & ICAR-CAZRI (Arid Horticulture & Drylands)** | Date palm tissue culture, arid zone fruits, ber and aonla canopy management, xerophytic systems. | Bikaner and Jodhpur apex arid zone research directorates. |
 | `SRC-0039` | **ICAR-IIVR & ICAR-DOGR (Vegetable & Allium Institutes)** | Open-field and protected vegetable breeding, triple disease-resistant hybrids, onion storage chawls. | Varanasi and Pune apex vegetable and allium research bodies. |
+| `SRC-0043` | **ICAR-DMR (Directorate of Mushroom Research, Solan)** | White button, oyster, paddy straw, and specialty mushrooms, short method composting, spawn certification. | Solan apex national directorate for mushroom science and technology. |
+| `SRC-0044` | **ICAR-NBPGR (National Bureau of Plant Genetic Resources, New Delhi)** | Underutilized crops, pseudo-cereals, wild relatives, germplasm conservation, and exploration. | Apex national bureau for plant genetic resources and AICRN on Potential Crops. |
 
 ---
 

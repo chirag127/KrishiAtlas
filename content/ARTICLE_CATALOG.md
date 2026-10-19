@@ -336,18 +336,18 @@ This is the authoritative inventory of all required articles across all 90 parts
 
 | ID | Title | Slug | Target Scope | Initial Status |
 |---|---|---|---|---|
-| `KA-229` | **Sweet Potato: Varieties, Planting Material and Market Uses** | `sweet-potato-varieties-planting-material-and-market-uses` | Pan-India / Global / Comparative | `draft` |
-| `KA-230` | **Cassava and Tapioca: Food, Feed and Industrial Processing** | `cassava-and-tapioca-food-feed-and-industrial-processing` | Pan-India / Global / Comparative | `draft` |
-| `KA-231` | **Yam, Taro, Colocasia and Other Aroids** | `yam-taro-colocasia-and-other-aroids` | Pan-India / Global / Comparative | `draft` |
-| `KA-232` | **Elephant Foot Yam and Other High-Value Tuber Possibilities** | `elephant-foot-yam-and-other-high-value-tuber-possibilities` | Pan-India / Global / Comparative | `draft` |
-| `KA-233` | **Edible Mushrooms: Species, Temperature and Substrate Matching** | `edible-mushrooms-species-temperature-and-substrate-matching` | Pan-India / Global / Comparative | `draft` |
-| `KA-234` | **Oyster Mushroom Production, Hygiene and Buyer Validation** | `oyster-mushroom-production-hygiene-and-buyer-validation` | Pan-India / Global / Comparative | `draft` |
-| `KA-235` | **Button Mushroom Infrastructure, Cooling and Energy Costs** | `button-mushroom-infrastructure-cooling-and-energy-costs` | Pan-India / Global / Comparative | `draft` |
-| `KA-236` | **Spawn Quality, Contamination and Mushroom Crop Failure** | `spawn-quality-contamination-and-mushroom-crop-failure` | Pan-India / Global / Comparative | `draft` |
-| `KA-237` | **Mushroom Drying, Packaging and Shelf-Life Management** | `mushroom-drying-packaging-and-shelf-life-management` | Pan-India / Global / Comparative | `draft` |
-| `KA-238` | **Underutilized Crops, Indigenous Foods and Biodiversity** | `underutilized-crops-indigenous-foods-and-biodiversity` | Pan-India / Global / Comparative | `draft` |
-| `KA-239` | **Tuber Storage, Sprouting, Rot and Postharvest Losses** | `tuber-storage-sprouting-rot-and-postharvest-losses` | Pan-India / Global / Comparative | `draft` |
-| `KA-240` | **Why Small Production Areas Can Still Have High Marketing Risk** | `why-small-production-areas-can-still-have-high-marketing-risk` | Pan-India / Global / Comparative | `draft` |
+| `KA-229` | **Sweet Potato: Varieties, Planting Material and Market Uses** | `sweet-potato-varieties-planting-material-and-market-uses` | Pan-India / Global / Comparative | `published` |
+| `KA-230` | **Cassava and Tapioca: Food, Feed and Industrial Processing** | `cassava-and-tapioca-food-feed-and-industrial-processing` | Pan-India / Global / Comparative | `published` |
+| `KA-231` | **Yam, Taro, Colocasia and Other Aroids** | `yam-taro-colocasia-and-other-aroids` | Pan-India / Global / Comparative | `published` |
+| `KA-232` | **Elephant Foot Yam and Other High-Value Tuber Possibilities** | `elephant-foot-yam-and-other-high-value-tuber-possibilities` | Pan-India / Global / Comparative | `published` |
+| `KA-233` | **Edible Mushrooms: Species, Temperature and Substrate Matching** | `edible-mushrooms-species-temperature-and-substrate-matching` | Pan-India / Global / Comparative | `published` |
+| `KA-234` | **Oyster Mushroom Production, Hygiene and Buyer Validation** | `oyster-mushroom-production-hygiene-and-buyer-validation` | Pan-India / Global / Comparative | `published` |
+| `KA-235` | **Button Mushroom Infrastructure, Cooling and Energy Costs** | `button-mushroom-infrastructure-cooling-and-energy-costs` | Pan-India / Global / Comparative | `published` |
+| `KA-236` | **Spawn Quality, Contamination and Mushroom Crop Failure** | `spawn-quality-contamination-and-mushroom-crop-failure` | Pan-India / Global / Comparative | `published` |
+| `KA-237` | **Mushroom Drying, Packaging and Shelf-Life Management** | `mushroom-drying-packaging-and-shelf-life-management` | Pan-India / Global / Comparative | `published` |
+| `KA-238` | **Underutilized Crops, Indigenous Foods and Biodiversity** | `underutilized-crops-indigenous-foods-and-biodiversity` | Pan-India / Global / Comparative | `published` |
+| `KA-239` | **Tuber Storage, Sprouting, Rot and Postharvest Losses** | `tuber-storage-sprouting-rot-and-postharvest-losses` | Pan-India / Global / Comparative | `published` |
+| `KA-240` | **Why Small Production Areas Can Still Have High Marketing Risk** | `why-small-production-areas-can-still-have-high-marketing-risk` | Pan-India / Global / Comparative | `published` |
 
 ## Part 21 — Spices, Plantation Crops and Beverage Crops
 

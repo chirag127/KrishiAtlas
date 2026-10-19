@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-19T06:15:37.266580+00:00",
+  "generated_at": "2026-10-19T06:25:48.812655+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 240,
-  "total_words": 290598,
+  "included_articles_count": 252,
+  "total_words": 303995,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "7f88c7294402e419bd3a8dc8bdd43b8c78de192a63dc6ea926805ad8143ff886",
+  "master_md_sha256": "334412e1daca2833aa81aa791e445e233b1990e9e4fa257ba132c4ca890b1941",
   "articles": [
     {
       "id": "KA-001",
@@ -2520,132 +2520,132 @@
       "title": "Sweet Potato: Varieties, Planting Material and Market Uses",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-229-sweet-potato-varieties-planting-material-and-market-uses.md",
+      "sha256": "76653519b73911b007035a1818b6717e95e6913a7ba16b4c4a84db2a090a2dc6",
+      "word_count": 1225,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-230",
       "title": "Cassava and Tapioca: Food, Feed and Industrial Processing",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-230-cassava-and-tapioca-food-feed-and-industrial-processing.md",
+      "sha256": "e55c528a77d3b93f7d6c97b869b1bf5b65dcc1c2acf2338e298cdaa177dc2d9b",
+      "word_count": 1072,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-231",
       "title": "Yam, Taro, Colocasia and Other Aroids",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-231-yam-taro-colocasia-and-other-aroids.md",
+      "sha256": "5d6fba85f390ba4cb83efcae8c4d0305a0e9ef66f706ae78d69c840c1a51b799",
+      "word_count": 1010,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-232",
       "title": "Elephant Foot Yam and Other High-Value Tuber Possibilities",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-232-elephant-foot-yam-and-other-high-value-tuber-possibilities.md",
+      "sha256": "e87dd0dfe75bd3c0cd1cd754303cab15624e2f2955d2abd0411decfe48e29760",
+      "word_count": 1085,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-233",
       "title": "Edible Mushrooms: Species, Temperature and Substrate Matching",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-233-edible-mushrooms-species-temperature-and-substrate-matching.md",
+      "sha256": "25183c8ddab4918732387e324dc9a9276003072c7104368c26cfb55979f08cff",
+      "word_count": 948,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-234",
       "title": "Oyster Mushroom Production, Hygiene and Buyer Validation",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-234-oyster-mushroom-production-hygiene-and-buyer-validation.md",
+      "sha256": "44d35df495ab7951f45b9f1bdba4a73234e57eb17af09414f77bd899036b8c10",
+      "word_count": 1200,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-235",
       "title": "Button Mushroom Infrastructure, Cooling and Energy Costs",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-235-button-mushroom-infrastructure-cooling-and-energy-costs.md",
+      "sha256": "90c7830c6c0c0badc339a81bb85013c6ec5dc599cdf98c03d06727a6dbd2365b",
+      "word_count": 1160,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-236",
       "title": "Spawn Quality, Contamination and Mushroom Crop Failure",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-236-spawn-quality-contamination-and-mushroom-crop-failure.md",
+      "sha256": "8583e3eb7f08d12cca2337a4a52fbb889f3bab5d60bf6694fba44f28d8a0fb42",
+      "word_count": 1129,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-237",
       "title": "Mushroom Drying, Packaging and Shelf-Life Management",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-237-mushroom-drying-packaging-and-shelf-life-management.md",
+      "sha256": "f5ca423495a4298c6dbad7d51082ef7a8d3d48590cce7ed757f48e56ebf254a6",
+      "word_count": 1086,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-238",
       "title": "Underutilized Crops, Indigenous Foods and Biodiversity",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-238-underutilized-crops-indigenous-foods-and-biodiversity.md",
+      "sha256": "14941ed09cfbabeb5ff6f37ce7a6d75512579b8720a2b33b37b35c6d6c8f1270",
+      "word_count": 1136,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-239",
       "title": "Tuber Storage, Sprouting, Rot and Postharvest Losses",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-239-tuber-storage-sprouting-rot-and-postharvest-losses.md",
+      "sha256": "9b63a8991cdd3ed4d97e000e914598aa859728cad4f5c5c7699f9e3001593564",
+      "word_count": 1191,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-240",
       "title": "Why Small Production Areas Can Still Have High Marketing Risk",
       "part": 20,
       "part_title": "Roots, Tubers, Mushrooms and Underutilized Crops",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-240-why-small-production-areas-can-still-have-high-marketing-risk.md",
+      "sha256": "3bede70fbf5c8d831c8eaddc5434903aad52e2fcb595370b037a628f35c3b94b",
+      "word_count": 1155,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-241",

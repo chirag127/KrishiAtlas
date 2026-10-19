@@ -224,7 +224,20 @@
   - `KA-226` — Carrot, Radish, Beetroot and Root Vegetable Quality (Published)
   - `KA-227` — Staggered Planting, Harvest Labour and Market Saturation (Published)
   - `KA-228` — Vegetable Grading, Harvest Losses and Daily Market Logistics (Published)
+- **Part 20: Roots, Tubers, Mushrooms and Underutilized Crops (12/12 Complete)**:
+  - `KA-229` — Sweet Potato: Varieties, Planting Material and Market Uses (Published)
+  - `KA-230` — Cassava and Tapioca: Food, Feed and Industrial Processing (Published)
+  - `KA-231` — Yam, Taro, Colocasia and Other Aroids (Published)
+  - `KA-232` — Elephant Foot Yam and Other High-Value Tuber Possibilities (Published)
+  - `KA-233` — Edible Mushrooms: Species, Temperature and Substrate Matching (Published)
+  - `KA-234` — Oyster Mushroom Production, Hygiene and Buyer Validation (Published)
+  - `KA-235` — Button Mushroom Infrastructure, Cooling and Energy Costs (Published)
+  - `KA-236` — Spawn Quality, Contamination and Mushroom Crop Failure (Published)
+  - `KA-237` — Mushroom Drying, Packaging and Shelf-Life Management (Published)
+  - `KA-238` — Underutilized Crops, Indigenous Foods and Biodiversity (Published)
+  - `KA-239` — Tuber Storage, Sprouting, Rot and Postharvest Losses (Published)
+  - `KA-240` — Why Small Production Areas Can Still Have High Marketing Risk (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 240 articles + master case study = **290,598 words** (2.23 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 20 (`KA-229` through `KA-240`: Roots, Tubers, Mushrooms and Underutilized Crops).
+- **Master Book Progress:** 252 articles + master case study = **303,995 words** (2.33 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 21 (`KA-241` through `KA-252`: Spices, Plantation Crops and Beverage Crops).

@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T11:46:00+05:30",
+  "last_updated": "2026-10-19T11:57:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 240,
-  "completed_parts": 20,
-  "master_manuscript_words": 290598,
+  "completed_articles": 252,
+  "completed_parts": 21,
+  "master_manuscript_words": 303995,
   "milestones": [
     {
       "id": "M01",
@@ -171,6 +171,12 @@
           "status": "completed"
         },
         {
+          "part": 20,
+          "title": "Roots, Tubers, Mushrooms and Underutilized Crops",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -178,10 +184,10 @@
         }
       ],
       "active_part": {
-        "part": 20,
-        "title": "Roots, Tubers, Mushrooms and Underutilized Crops",
+        "part": 21,
+        "title": "Spices, Plantation Crops and Beverage Crops",
         "target_articles": 12,
-        "next_article": "KA-229"
+        "next_article": "KA-241"
       }
     }
   ]
