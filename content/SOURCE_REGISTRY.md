@@ -52,6 +52,7 @@ This registry records authoritative primary institutions, legislative statutes, 
 | `SRC-0036` | **ICAR-CCRI, ICAR-NRCG & ICAR-NRCP (Citrus, Grape, Pomegranate Institutes)** | Citrus decline, grape Dogridge rootstock and pruning systems, pomegranate bahar management. | Nagpur, Pune, and Solapur specialized fruit crop research directorates. |
 | `SRC-0037` | **ICAR-CPCRI & ICAR-DCR (Plantation & Cashew Institutes)** | Coconut multi-tier cropping, arecanut disease management, cashew high-yielding varieties. | Kasaragod and Puttur apex plantation crop research centers. |
 | `SRC-0038` | **ICAR-CIAH & ICAR-CAZRI (Arid Horticulture & Drylands)** | Date palm tissue culture, arid zone fruits, ber and aonla canopy management, xerophytic systems. | Bikaner and Jodhpur apex arid zone research directorates. |
+| `SRC-0039` | **ICAR-IIVR & ICAR-DOGR (Vegetable & Allium Institutes)** | Open-field and protected vegetable breeding, triple disease-resistant hybrids, onion storage chawls. | Varanasi and Pune apex vegetable and allium research bodies. |
 
 ---
 

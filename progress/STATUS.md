@@ -211,7 +211,20 @@
   - `KA-214` — Watermelon, Muskmelon and Short-Cycle Cucurbit Production (Published)
   - `KA-215` — Fruit Nursery Quality, Graft Authenticity and Orchard Replacement (Published)
   - `KA-216` — How Perishability and Price Gluts Change Fruit Profitability (Published)
+- **Part 19: Vegetables and Market Gardening (12/12 Complete)**:
+  - `KA-217` — Tomato: Open-Field Production, Disease and Price Volatility (Published)
+  - `KA-218` — Onion: Bulb Development, Storage and Price-Cycle Risk (Published)
+  - `KA-219` — Potato as a Vegetable Enterprise: Production, Storage and Seed Cost (Published)
+  - `KA-220` — Chilli, Capsicum and Pepper Crop Systems (Published)
+  - `KA-221` — Brinjal, Okra and Other Warm-Season Vegetables (Published)
+  - `KA-222` — Cabbage, Cauliflower and Cole Crop Production (Published)
+  - `KA-223` — Leafy Greens, Amaranth and Rapid-Cycle Vegetable Systems (Published)
+  - `KA-224` — Peas, Beans and Other Fresh Legume Vegetables (Published)
+  - `KA-225` — Cucumber, Gourds, Pumpkin and Other Cucurbits (Published)
+  - `KA-226` — Carrot, Radish, Beetroot and Root Vegetable Quality (Published)
+  - `KA-227` — Staggered Planting, Harvest Labour and Market Saturation (Published)
+  - `KA-228` — Vegetable Grading, Harvest Losses and Daily Market Logistics (Published)
 - **Part 90: Owner Case Study Suite (12/12 Complete)**:
   - `KA-1069` through `KA-1080` all completed, covering the complete empirical decision matrix for the Ghaziabad landholding vs TCS Bhubaneswar IT baseline.
-- **Master Book Progress:** 228 articles + master case study = **276,914 words** (2.13 MB) in `exports/KrishiGrantha_Master.md`.
-- **Next Part in Queue:** Part 19 (`KA-217` through `KA-228`: Vegetables and Market Gardening).
+- **Master Book Progress:** 240 articles + master case study = **290,598 words** (2.23 MB) in `exports/KrishiGrantha_Master.md`.
+- **Next Part in Queue:** Part 20 (`KA-229` through `KA-240`: Roots, Tubers, Mushrooms and Underutilized Crops).

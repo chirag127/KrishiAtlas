@@ -1,11 +1,11 @@
 {
   "book_title": "KrishiGrantha — The Complete Agriculture Knowledge Compendium",
-  "generated_at": "2026-10-18T21:38:50.781478+00:00",
+  "generated_at": "2026-10-19T06:15:37.266580+00:00",
   "total_catalog_articles": 1080,
-  "included_articles_count": 228,
-  "total_words": 276914,
+  "included_articles_count": 240,
+  "total_words": 290598,
   "master_md_file": "exports/KrishiGrantha_Master.md",
-  "master_md_sha256": "a56638fb495ffc2095dfef4369d3d14f9cecb225ff125a8368b8414acd85c26c",
+  "master_md_sha256": "7f88c7294402e419bd3a8dc8bdd43b8c78de192a63dc6ea926805ad8143ff886",
   "articles": [
     {
       "id": "KA-001",
@@ -2388,132 +2388,132 @@
       "title": "Tomato: Open-Field Production, Disease and Price Volatility",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-217-tomato-open-field-production-disease-and-price-volatility.md",
+      "sha256": "33133cc5526f0ca1071a7846770bcea9a3b13acc01b4c5ba27f3ddc5b5db9270",
+      "word_count": 1114,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-218",
       "title": "Onion: Bulb Development, Storage and Price-Cycle Risk",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-218-onion-bulb-development-storage-and-price-cycle-risk.md",
+      "sha256": "241b9431945497851d02756617f2cbaee389a4747efc6bb745375e0524421291",
+      "word_count": 1217,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-219",
       "title": "Potato as a Vegetable Enterprise: Production, Storage and Seed Cost",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-219-potato-as-a-vegetable-enterprise-production-storage-and-seed-cost.md",
+      "sha256": "29a9a9ee9066ad906c043a356e9f437caf21108b48d47b4d8086c86074c516f6",
+      "word_count": 1205,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-220",
       "title": "Chilli, Capsicum and Pepper Crop Systems",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-220-chilli-capsicum-and-pepper-crop-systems.md",
+      "sha256": "2d1efdfba403f31817f28eca7ebfcd5f76f850b6df78ac94f41ce50c9e25dbe2",
+      "word_count": 1156,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-221",
       "title": "Brinjal, Okra and Other Warm-Season Vegetables",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-221-brinjal-okra-and-other-warm-season-vegetables.md",
+      "sha256": "60c64d95cf39e07f65c2396a7c29f061b782cfc9a4ee4f377a7394ca599970ca",
+      "word_count": 1348,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-222",
       "title": "Cabbage, Cauliflower and Cole Crop Production",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-222-cabbage-cauliflower-and-cole-crop-production.md",
+      "sha256": "8a23e676c28d59bc5e52592c502fc03377c9e84f89619d17ae9ec52f90ff4ad7",
+      "word_count": 1170,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-223",
       "title": "Leafy Greens, Amaranth and Rapid-Cycle Vegetable Systems",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-223-leafy-greens-amaranth-and-rapid-cycle-vegetable-systems.md",
+      "sha256": "e9d4ef039e41c1f2c8f5d3cc70049803a66724364edc8a3864b7517d21692e70",
+      "word_count": 1153,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-224",
       "title": "Peas, Beans and Other Fresh Legume Vegetables",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-224-peas-beans-and-other-fresh-legume-vegetables.md",
+      "sha256": "cb0cf071a252528e545326b58e4c21af13a1b7ed64044bb94c3cf927cd5e8f45",
+      "word_count": 1044,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-225",
       "title": "Cucumber, Gourds, Pumpkin and Other Cucurbits",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-225-cucumber-gourds-pumpkin-and-other-cucurbits.md",
+      "sha256": "6d47cdc8751dbab2f9a0e13b7d5ab9e14a303efa03867677e13cfc4a1625fccd",
+      "word_count": 1060,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-226",
       "title": "Carrot, Radish, Beetroot and Root Vegetable Quality",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-226-carrot-radish-beetroot-and-root-vegetable-quality.md",
+      "sha256": "a506303e980c84936d4c33e1ab75edc1bc4a562272173929c70e33c6349eeede",
+      "word_count": 1071,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-227",
       "title": "Staggered Planting, Harvest Labour and Market Saturation",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-227-staggered-planting-harvest-labour-and-market-saturation.md",
+      "sha256": "2158ba6d805c96962d0a587826c13307304acbb4ae135654555f3d1f7b27a546",
+      "word_count": 1035,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-228",
       "title": "Vegetable Grading, Harvest Losses and Daily Market Logistics",
       "part": 19,
       "part_title": "Vegetables and Market Gardening",
-      "file": null,
-      "sha256": null,
-      "word_count": 0,
-      "status": "pending",
-      "included_in_book": false
+      "file": "content/articles/KA-228-vegetable-grading-harvest-losses-and-daily-market-logistics.md",
+      "sha256": "9d5e8eb9c14303026e1b28d1e396b54936bafa5316f34b1168abaafe0f892fa3",
+      "word_count": 1111,
+      "status": "published",
+      "included_in_book": true
     },
     {
       "id": "KA-229",

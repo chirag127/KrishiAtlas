@@ -1,11 +1,11 @@
 {
   "project": "KrishiAtlas & KrishiGrantha",
   "version": "1.0.0",
-  "last_updated": "2026-10-19T03:10:00+05:30",
+  "last_updated": "2026-10-19T11:46:00+05:30",
   "total_catalog_articles": 1080,
-  "completed_articles": 228,
-  "completed_parts": 19,
-  "master_manuscript_words": 276914,
+  "completed_articles": 240,
+  "completed_parts": 20,
+  "master_manuscript_words": 290598,
   "milestones": [
     {
       "id": "M01",
@@ -165,6 +165,12 @@
           "status": "completed"
         },
         {
+          "part": 19,
+          "title": "Vegetables and Market Gardening",
+          "articles_completed": 12,
+          "status": "completed"
+        },
+        {
           "part": 90,
           "title": "Owner Case Study: Ghaziabad Family Land, TCS Employment and Agriculture Decisions",
           "articles_completed": 12,
@@ -172,10 +178,10 @@
         }
       ],
       "active_part": {
-        "part": 19,
-        "title": "Vegetables and Market Gardening",
+        "part": 20,
+        "title": "Roots, Tubers, Mushrooms and Underutilized Crops",
         "target_articles": 12,
-        "next_article": "KA-217"
+        "next_article": "KA-229"
       }
     }
   ]

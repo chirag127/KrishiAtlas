@@ -319,18 +319,18 @@ This is the authoritative inventory of all required articles across all 90 parts
 
 | ID | Title | Slug | Target Scope | Initial Status |
 |---|---|---|---|---|
-| `KA-217` | **Tomato: Open-Field Production, Disease and Price Volatility** | `tomato-open-field-production-disease-and-price-volatility` | Pan-India / Global / Comparative | `draft` |
-| `KA-218` | **Onion: Bulb Development, Storage and Price-Cycle Risk** | `onion-bulb-development-storage-and-price-cycle-risk` | Pan-India / Global / Comparative | `draft` |
-| `KA-219` | **Potato as a Vegetable Enterprise: Production, Storage and Seed Cost** | `potato-as-a-vegetable-enterprise-production-storage-and-seed-cost` | Pan-India / Global / Comparative | `draft` |
-| `KA-220` | **Chilli, Capsicum and Pepper Crop Systems** | `chilli-capsicum-and-pepper-crop-systems` | Pan-India / Global / Comparative | `draft` |
-| `KA-221` | **Brinjal, Okra and Other Warm-Season Vegetables** | `brinjal-okra-and-other-warm-season-vegetables` | Pan-India / Global / Comparative | `draft` |
-| `KA-222` | **Cabbage, Cauliflower and Cole Crop Production** | `cabbage-cauliflower-and-cole-crop-production` | Pan-India / Global / Comparative | `draft` |
-| `KA-223` | **Leafy Greens, Amaranth and Rapid-Cycle Vegetable Systems** | `leafy-greens-amaranth-and-rapid-cycle-vegetable-systems` | Pan-India / Global / Comparative | `draft` |
-| `KA-224` | **Peas, Beans and Other Fresh Legume Vegetables** | `peas-beans-and-other-fresh-legume-vegetables` | Pan-India / Global / Comparative | `draft` |
-| `KA-225` | **Cucumber, Gourds, Pumpkin and Other Cucurbits** | `cucumber-gourds-pumpkin-and-other-cucurbits` | Pan-India / Global / Comparative | `draft` |
-| `KA-226` | **Carrot, Radish, Beetroot and Root Vegetable Quality** | `carrot-radish-beetroot-and-root-vegetable-quality` | Pan-India / Global / Comparative | `draft` |
-| `KA-227` | **Staggered Planting, Harvest Labour and Market Saturation** | `staggered-planting-harvest-labour-and-market-saturation` | Pan-India / Global / Comparative | `draft` |
-| `KA-228` | **Vegetable Grading, Harvest Losses and Daily Market Logistics** | `vegetable-grading-harvest-losses-and-daily-market-logistics` | Pan-India / Global / Comparative | `draft` |
+| `KA-217` | **Tomato: Open-Field Production, Disease and Price Volatility** | `tomato-open-field-production-disease-and-price-volatility` | Pan-India / Global / Comparative | `published` |
+| `KA-218` | **Onion: Bulb Development, Storage and Price-Cycle Risk** | `onion-bulb-development-storage-and-price-cycle-risk` | Pan-India / Global / Comparative | `published` |
+| `KA-219` | **Potato as a Vegetable Enterprise: Production, Storage and Seed Cost** | `potato-as-a-vegetable-enterprise-production-storage-and-seed-cost` | Pan-India / Global / Comparative | `published` |
+| `KA-220` | **Chilli, Capsicum and Pepper Crop Systems** | `chilli-capsicum-and-pepper-crop-systems` | Pan-India / Global / Comparative | `published` |
+| `KA-221` | **Brinjal, Okra and Other Warm-Season Vegetables** | `brinjal-okra-and-other-warm-season-vegetables` | Pan-India / Global / Comparative | `published` |
+| `KA-222` | **Cabbage, Cauliflower and Cole Crop Production** | `cabbage-cauliflower-and-cole-crop-production` | Pan-India / Global / Comparative | `published` |
+| `KA-223` | **Leafy Greens, Amaranth and Rapid-Cycle Vegetable Systems** | `leafy-greens-amaranth-and-rapid-cycle-vegetable-systems` | Pan-India / Global / Comparative | `published` |
+| `KA-224` | **Peas, Beans and Other Fresh Legume Vegetables** | `peas-beans-and-other-fresh-legume-vegetables` | Pan-India / Global / Comparative | `published` |
+| `KA-225` | **Cucumber, Gourds, Pumpkin and Other Cucurbits** | `cucumber-gourds-pumpkin-and-other-cucurbits` | Pan-India / Global / Comparative | `published` |
+| `KA-226` | **Carrot, Radish, Beetroot and Root Vegetable Quality** | `carrot-radish-beetroot-and-root-vegetable-quality` | Pan-India / Global / Comparative | `published` |
+| `KA-227` | **Staggered Planting, Harvest Labour and Market Saturation** | `staggered-planting-harvest-labour-and-market-saturation` | Pan-India / Global / Comparative | `published` |
+| `KA-228` | **Vegetable Grading, Harvest Losses and Daily Market Logistics** | `vegetable-grading-harvest-losses-and-daily-market-logistics` | Pan-India / Global / Comparative | `published` |
 
 ## Part 20 — Roots, Tubers, Mushrooms and Underutilized Crops
 
